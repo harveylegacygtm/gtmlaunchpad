@@ -27,12 +27,11 @@ You do not need to be technical. The skills run the commands for you.
 In Claude Code, run:
 
 ```
-/plugin marketplace add <OWNER>/gtmlaunchpad
+/plugin marketplace add harveylegacygtm/gtmlaunchpad
 /plugin install launchpad@launchpad-marketplace
 ```
 
-(Replace `<OWNER>` with the GitHub account that hosts this repo.) To update
-later: `/plugin marketplace update`.
+To update later: `/plugin marketplace update`.
 
 ---
 
