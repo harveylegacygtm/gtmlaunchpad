@@ -1,0 +1,33 @@
+# ── Secrets: NEVER commit ──────────────────────────────
+# API keys live in the user's ~/.claude/settings.json (home folder), never here.
+.env
+**/.env
+settings.local.json
+**/settings.local.json
+*.key
+*.pem
+secrets.json
+
+# ── User runtime artifacts (may hold leads / PII or local config) ──
+# Lead lists, generated specs, and result files created while running the tools.
+*.csv
+domains.txt
+spec.json
+*.spec.json
+approved.csv
+flagged.csv
+report.csv
+
+# ── Local IDE test mirror ──────────────────────────────
+# The plugin source of truth is launchpad/. .claude/ is a local-only copy used
+# to auto-discover skills while developing. Do not ship it (it can drift).
+/.claude/
+
+# ── Dependencies / build ───────────────────────────────
+node_modules/
+
+# ── OS / editor cruft ──────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

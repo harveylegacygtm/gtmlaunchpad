@@ -1,0 +1,13 @@
+{
+  "_comment": "Copy the env block below into your Claude Code settings file, then paste your own keys. File location: ~/.claude/settings.json (Windows: C:\\Users\\YourName\\.claude\\settings.json). This is in your home folder, NOT your project, so it can never be committed to git. Only add the lines for tools you actually use. Restart Claude Code after saving so it picks up the keys. Never paste keys into chat. Never commit this file.",
+  "env": {
+    "SENDKIT_API_KEY": "sk_live_paste_yours_here",
+    "SENDKIT_WORKSPACE_ID": "ws_optional_only_for_platform_keys",
+    "INBOXKIT_API_KEY": "paste_yours_here",
+    "INBOXKIT_WORKSPACE_ID": "paste_workspace_uuid_here",
+    "DYNADOT_API_KEY": "paste_yours_here",
+    "DYNADOT_API_SECRET": "paste_yours_here",
+    "SPACESHIP_API_KEY": "paste_yours_here",
+    "SPACESHIP_API_SECRET": "paste_yours_here"
+  }
+}
