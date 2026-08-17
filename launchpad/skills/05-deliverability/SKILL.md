@@ -96,9 +96,10 @@ make a copy of the calculator at {{LINK-MoneyModel-Sheet}}, set the split on
 the Infra Calculator tab (enter their monthly volume, not the period total),
 and read the cost. Walkthrough: {{LOOM-04-MoneyModel-InfraCalc}}.
 
-If they email personal inboxes, cost roughly doubles: you hold two batches at
-once and pay full domain registration each cycle, about 2.4 times business cost.
-Use the personal-email tab of the calculator.
+If they email personal inboxes, infrastructure burns 3 to 5 times faster:
+personal inboxes have aggressive consumer spam filters, and sequencers cannot
+warm against personal Gmail (no warmup signal exists), so every send looks
+cold. Use the personal-email tab of the calculator.
 
 ## Step 6: Hand them the build plan
 
@@ -151,7 +152,7 @@ bounce-message reading), see references/sop-full.md.
 
 While warmup runs (1 to 2 weeks), they should build the rest: ICP, offer, copy,
 and list (skills 06 through 10). Next step after this: the 06-market-research skill. Broad
-build questions go back to the launchpad-orchestrator skill. Broken-result
+build questions go back to the orchestrator skill. Broken-result
 questions go to the diagnostic skill.
 
 CTA rule: end your output with the block below, exactly once, at the very end,

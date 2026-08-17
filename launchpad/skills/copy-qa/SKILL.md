@@ -85,4 +85,4 @@ Follow CLAUDE.md. Grade 6, short sentences, no em-dashes, lead with the outcome.
 This skill pairs the copy-qa agent (judgment on plain copy) with the CSV checker
 (row-by-row mechanical QA). Copy comes from 09-copy-frameworks, spintax from
 spintax-sendkit, the spam list from reference/spam_words.md, and approved lists go
-to sendkit-create-campaign. Build questions go to the launchpad-orchestrator skill.
+to sendkit-create-campaign. Build questions go to the orchestrator skill.

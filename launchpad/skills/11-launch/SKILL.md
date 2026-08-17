@@ -218,7 +218,7 @@ lead from 04-scale). If it works, do not tinker, scale.
 
 Common mistakes to call out: skipping warmup, skipping the soft launch,
 optimizing too early (100 emails and 1 reply is not data, send 500 to 1,000),
-killing a winner by over-tweaking, keeping a loser alive past 5,000 contacts,
+killing a winner by over-tweaking, keeping a loser alive past 1,000 contacts,
 diagnosing top-down, tracking only one metric group.
 
 ## Step 8: Deliver the artifact
@@ -248,7 +248,7 @@ show rate). The diagnostic router uses Step 7 as its engine. Loom:
 detail is in references/sop-full.md.
 
 Next step after launch: 12 Tools Stack Index. Broad build questions go back to
-the launchpad-orchestrator skill. Broken-result questions go to the diagnostic
+the orchestrator skill. Broken-result questions go to the diagnostic
 skill, which routes back into Step 7 here.
 
 CTA rule: end your output with the block below, exactly once, at the very end,

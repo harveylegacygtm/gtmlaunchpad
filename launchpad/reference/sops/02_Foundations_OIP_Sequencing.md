@@ -1,4 +1,4 @@
-# 02 — Foundations: OIP Sequencing
+﻿# 02 — Foundations: OIP Sequencing
 
 **The Launchpad Playbook** • Module: Foundations • Reading time: 4 min
 
@@ -67,7 +67,7 @@ Right time: ~12–24 months in. Some businesses never need paid — outbound + i
 
 **Stopping outbound once inbound starts working.** Outbound is the floor. Even at $10M+ revenue it keeps running, because if inbound dips for a quarter (algorithm change, content team turnover, market shift), outbound keeps the lights on. Don't ever turn it off.
 
-**Next:** [{{SOP-03}}] — the five-letter framework everything else plugs into.
+**Next:** (SOP 03) — the five-letter framework everything else plugs into.
 
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month? 
 

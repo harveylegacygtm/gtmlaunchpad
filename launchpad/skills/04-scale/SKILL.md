@@ -33,7 +33,7 @@ Before you explain anything, ask for their inputs. Keep it to one short batch:
    - If yes, get their close rate, qualification rate, show rate, LTA
      (positive reply to booked), and leads contacted per positive reply.
    - If no, tell them you'll start with workshop benchmarks and name them:
-     close 25%, qualification 80%, show 70%, LTA 30%, 75 leads per positive,
+     close 20%, qualification 80%, show 70%, LTA 30%, 75 leads per positive,
      a 3-email sequence.
 
 Wait for their answers. Do not move on until you have the goal, the period,
@@ -124,18 +124,18 @@ If they want to see it run with benchmarks first, use this:
 
 ```
 $50,000 / $10,000 ACV     = 5 deals
-5       / 25% close       = 20 qualified calls
-20      / 80% qual        = 25 held calls
-25      / 70% show        = 36 booked calls
-36      / 30% LTA         = 120 positive replies
-120     x 75 ratio        = 9,000 leads to contact
-9,000   x 3 x 0.85        = 22,950 emails over 90 days
-22,950  / 3 months        = 7,650 emails / month (~348/day on 22 sending days)
+5       / 20% close       = 25 qualified calls
+25      / 80% qual        = 32 held calls
+32      / 70% show        = 46 booked calls
+46      / 30% LTA         = 154 positive replies
+154     x 75 ratio        = 11,550 leads to contact
+11,550  x 3 x 0.85        = 29,453 emails over 90 days
+29,453  / 3 months        = 9,818 emails / month (~446/day on 22 sending days)
 ```
 
-Cost, Google-only default: 348/day needs 24 inboxes on 8 domains. Infra ~$93/mo
-(inboxes $84 + cheap domains $9). Add Sendkit $97, Clay $446, data ~$77. Monthly
-total ~$713 with cheap domains, ~$730 with premium. Software is most of it.
+Cost, Google-only default: 446/day needs 30 inboxes on 10 domains. Infra ~$117/mo
+(inboxes $105 + cheap domains $12). Add Sendkit $97, Clay $446, data ~$98. Monthly
+total ~$758 with cheap domains, ~$779 with premium. Software is most of it.
 
 ## Rules
 
@@ -145,9 +145,10 @@ default CRM is {{AFF-GoHighLevel}}. For the full detail, benchmarks table,
 scaling moves, and common mistakes, see references/sop-full.md.
 
 After the model is built, point them to the next step: the 05-deliverability
-skill, where they set their provider split and finalize the cost. Broad build
-questions go back to the launchpad-orchestrator skill. Broken-result questions
-go to the diagnostic skill.
+skill, where they set their provider split and finalize the cost. If they
+already have a model and just want to know which stage to fix first, that is
+the money-model-analyzer skill, not this one. Broad build questions go back to
+the orchestrator skill. Broken-result questions go to the diagnostic skill.
 
 CTA rule: end your output with the block below, exactly once, at the very end,
 after the model. Never show it more than once, and never repeat it on later

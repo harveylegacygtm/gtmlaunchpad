@@ -128,4 +128,4 @@ domain-purchase supply domains, 11-launch sets the warmup timeline, and the
 inboxes feed sendkit-create-campaign. InboxKit can also run inbox-placement
 (spam) tests, email-insights deliverability reports, and InfraGuard blacklist
 monitoring. Connection details live in reference/tool-connections.md. Build
-questions go to the launchpad-orchestrator skill.
+questions go to the orchestrator skill.

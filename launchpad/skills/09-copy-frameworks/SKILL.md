@@ -70,14 +70,20 @@ Every email answers these in order. Miss one and it breaks:
 
 ## Step 5: Build email 1, line by line
 
-Email 1 does ~80% of the work. Build 3 to 4 versions for them:
+Email 1 does ~80% of the work. Build 3 to 4 versions for them, every line
+earning its job:
 
 - Subject: 1 to 3 words, internal-note feel ("billing ops," not "Scaling Your Brand").
 - Opener: anchor to a signal or insight, don't force it.
 - Problem framing: a real, specific pain, ideally a small story.
-- Value prop: plain words, the one thing that is different, framed as what they
-  can now do.
+- Proof: show you can actually solve it. A real result for a real client. Pick
+  one flavor of social proof from references/sop-full.md, don't default to the
+  same one every time.
+- Value prop / lead magnet: plain words, the one thing that is different, framed
+  as what they can now do.
 - CTA: a gift, not a pitch. A 3-min Loom, an audit, or an easy yes/no.
+- Sign-off: a real name, one person to another.
+- P.S.: hint at the outcome waiting after the magnet, or the wider offer behind it.
 
 Vary the versions by angle using the five strategic moves: chunk up vs down,
 mechanism vs none, handle the objection, different pokes, different proof. Test
@@ -142,7 +148,7 @@ not read it to the user.
 
 If replies are weak, the fix is usually higher up. Check ICP, offer, and campaign
 before rewriting words. Next step after this: the 10-lead-list skill. Broad build
-questions go back to the launchpad-orchestrator skill. Broken-result questions go
+questions go back to the orchestrator skill. Broken-result questions go
 to the diagnostic skill.
 
 CTA rule: end your output with the block below, exactly once, at the very end,

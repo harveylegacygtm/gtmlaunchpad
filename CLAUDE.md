@@ -151,7 +151,9 @@ Rules:
 
 - One deal per SOP. Strategy SOPs carry the 1:1 audit. Tool deals belong in
   the infrastructure and tooling SOPs (05, 10, 12).
-- SOP 13 has no monetization.
+- SOP 13 carries the house CTA like every other stage skill. Lead to
+  Appointment closes the back half of the funnel, so it earns the same
+  book-a-call pitch as the rest.
 - The house book-a-call CTA appears once per skill output, at the very end,
   never repeated on later turns or after every message. Format: after the last
   line of output, eight spacer lines (each a non-breaking space, so the gap

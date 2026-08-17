@@ -1,4 +1,4 @@
-# 06 - Prospect: ICP Mapping
+﻿# 06 - Prospect: ICP Mapping
 
 *The Launchpad Playbook  •  Module: P in SCOPE - Prospect  •  Reading time: 13 min*
 
@@ -54,7 +54,7 @@ Buyer persona = the person inside that company. *The VP of Sales. The Head of Re
 
 One ICP can have several personas. If you sell sales-enablement software, the ICP is one company type, but your personas might be the CRO (economic buyer), the Head of Sales Ops (technical buyer), and the VP of Sales (the user). Each one hears a different message.
 
-The rule for outbound: **one persona per campaign.** Don't blend. The CRO and the Head of Sales Ops have different concerns, language, and objections. Copy that tries to speak to both speaks to neither. Separate campaigns - exactly how is covered in Campaign Architecture [{{SOP-08}}].
+The rule for outbound: **one persona per campaign.** Don't blend. The CRO and the Head of Sales Ops have different concerns, language, and objections. Copy that tries to speak to both speaks to neither. Separate campaigns - exactly how is covered in Campaign Architecture (SOP 08).
 
 ## The 4-layer ICP framework
 
@@ -168,7 +168,7 @@ Your ICP work produces two distinct lists - and they become two distinct campaig
 
 - **The signal list.** The subset showing one or more of your Signal-to-Offer triggers. Smaller, more expensive to build (more enrichment), but far higher conversion. These leads earn hyper-personalized copy and multi-touch (email + LinkedIn + a call) because the economics justify the effort.
 
-You run both. The cash cow funds the operation; the signal list spikes your conversion rate. Don't pick one. Hand both forward to Campaign Architecture [{{SOP-08}}].
+You run both. The cash cow funds the operation; the signal list spikes your conversion rate. Don't pick one. Hand both forward to Campaign Architecture (SOP 08).
 
 ## Build YOUR ICP - the 30-minute exercise
 
@@ -302,7 +302,7 @@ How to research it fast: read Reddit threads in their industry, G2 reviews of co
 
 When all eight are done, you have an ICP - and the two lists and the signal map that the rest of the playbook runs on.
 
-**Next:** [{{SOP-07}}]
+**Next:** (SOP 07)
 
 # 👉 Want us to create your ICP doc for you and show you how we'd get you 10-30 additional meetings with ICP-fit leads every month? 
 

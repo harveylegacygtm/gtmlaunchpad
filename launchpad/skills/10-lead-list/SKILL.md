@@ -142,7 +142,7 @@ Prospeo how-to lives in the lead-database tool skill. Intro:
 {{LOOM-10-Clay-EnrichQA}}. Full detail is in references/sop-full.md.
 
 Next step after this: the 11-launch-operate skill. Broad build questions go back
-to the launchpad-orchestrator skill. Broken-result questions go to the
+to the orchestrator skill. Broken-result questions go to the
 diagnostic skill.
 
 CTA rule: end your output with the block below, exactly once, at the very end,

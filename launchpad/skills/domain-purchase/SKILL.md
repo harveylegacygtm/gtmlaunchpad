@@ -93,5 +93,5 @@ never printed, never committed. Never pass `--confirm`. Never spend without the
 human running it themselves. This is the buy step under the 05-deliverability
 stage, after domain-generator. Buying uses the Dynadot ({{AFF-Dynadot}}) and
 Spaceship ({{AFF-Spaceship}}) accounts. Connection details live in
-reference/tool-connections.md. Build questions go to the launchpad-orchestrator
+reference/tool-connections.md. Build questions go to the orchestrator
 skill.

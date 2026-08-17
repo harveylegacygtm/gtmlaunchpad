@@ -168,7 +168,7 @@ Usually - you need to buy a monthly subscription where each inbox costs you $3.5
 
 You might not think 0.5 is a big difference but if you have a set up of 100 mailboxes - that’s $50 saved. **Think when you get to 1000, 10,000 mailboxes. **
 
-👉 Sign up here: {{AFF-InboxKit}}
+👉 Sign up here: {{AFF-InboxKit}} and use code **GTMLAUNCHPAD** at checkout to lock in $3 per mailbox instead of $3.50.
 
 A managed partner at scale also gives you **pattern recognition** - a team sending millions/month spots a provider's bad week or a dead warm-up protocol far faster than any single sender, and tells you what to change. 
 
@@ -290,7 +290,7 @@ You never touch a DNS record. When warm-up finishes, connect the inboxes to your
 
 Your delivery guy. The sequencer does the actual mass sending - connect dozens to thousands of inboxes to one platform and it handles distribution and warm-up. It carries a recognizable identity at the receiving end, so the platform you send through becomes part of your reputation, separate from your domains. It also runs the warm-up pool and IP infrastructure.
 
-**🎁 Launchpad Deal - Sequencer (Sendkit.ai)** Our default: **Sendkit.ai** - delivers well, runs on isolated IP infrastructure, stays affordable at any volume, and is InboxKit's native sequencer (managed inboxes plug straight in with warm-up pre-configured). **What you ****unlock through The Launchpad:** the **first-month discount plan + 500 credits to launch.** 👉 Sign up: {{AFF-Sendkit}}
+**🎁 Launchpad Deal - Sequencer (Sendkit.ai)** Our default: **Sendkit.ai** - delivers well, runs on isolated IP infrastructure, stays affordable at any volume, and is InboxKit's native sequencer (managed inboxes plug straight in with warm-up pre-configured). **What you ****unlock through The Launchpad:** **10% off every Sendkit plan + 500 credits to launch.** 👉 Sign up: {{AFF-Sendkit}} and use code **10GTMLAUNCHPAD**.
 
 Other options: **Instantly** (easiest to start, good below ~5k/day), **EmailBison** (built for ~500k/month+). We still prefer Sendkit - delivers as well as Bison for 99% of cases at a price that works at any volume.
 

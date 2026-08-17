@@ -1,5 +1,5 @@
 ---
-name: launchpad-orchestrator
+name: orchestrator
 description: >
   Use this skill whenever someone wants to build, plan, or scale a cold outbound
   or cold email system, or asks where to start with The Launchpad, SCOPE, booked

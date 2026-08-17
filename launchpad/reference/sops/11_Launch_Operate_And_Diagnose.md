@@ -1,4 +1,4 @@
-# 11 - Launch, Operate & Diagnose
+﻿# 11 - Launch, Operate & Diagnose
 
 *The Launchpad Playbook  •  Module: Operating Layer  •  Reading time: ~16 min*
 
@@ -54,7 +54,7 @@ Email can't be rushed. New inboxes need 2–3 weeks of warmup before they can sa
 | 4 - Ramp | Volume climbs 30–50%/day as inboxes prove healthy; add 2nd campaign; begin variant testing | Continue on top-scored accounts | 50–70% |
 | 5–6 - Steady state | Full volume, 3–4 playbooks in parallel, reply handling active | Reserved for highest-score multi-touch | 100% |
 
-Email goes live around week 3 and reaches steady state by weeks 5–6. Anyone who wants pipeline faster runs the fast-track lane and is effectively live in week 2. It's the same logic as your signal campaigns: the highest-scored leads are exactly the ones worth the LinkedIn + call effort (see List Building [{{SOP-10}}] and Campaign Architecture [{{SOP-08}}]).
+Email goes live around week 3 and reaches steady state by weeks 5–6. Anyone who wants pipeline faster runs the fast-track lane and is effectively live in week 2. It's the same logic as your signal campaigns: the highest-scored leads are exactly the ones worth the LinkedIn + call effort (see List Building (SOP 10) and Campaign Architecture (SOP 08)).
 
 ### Why the fast-track lane works
 
@@ -134,11 +134,11 @@ Goal: prove the system at small volume before you scale. Send 10–20% of target
 
 ## Ramp - week 4
 
-Increase daily volume ~30–50% as health holds. Add a second campaign (a different playbook, see [{{SOP-08}}]). Begin variant testing within email 1 (3–4 variants of the strongest playbook). Once you have 1,000+ contacts per variant: a variant 50%+ worse, pause and replace; a clear winner, scale its share; all within 30% of each other, keep running, you need more data.
+Increase daily volume ~30–50% as health holds. Add a second campaign (a different playbook, see (SOP 08)). Begin variant testing within email 1 (3–4 variants of the strongest playbook). Once you have 1,000+ contacts per variant: a variant 50%+ worse, pause and replace; a clear winner, scale its share; all within 30% of each other, keep running, you need more data.
 
 ## Steady state - weeks 5–6
 
-Full target volume, 3–4 playbooks in parallel against the A-tier list, reply handling fully active [{{SOP-13}}], daily reply triage in place. Lagging metrics start to mean something. Still no major copy or offer changes and no new ICPs yet. Prove the current one first.
+Full target volume, 3–4 playbooks in parallel against the A-tier list, reply handling fully active (SOP 13), daily reply triage in place. Lagging metrics start to mean something. Still no major copy or offer changes and no new ICPs yet. Prove the current one first.
 
 # Part B - Operate
 
@@ -154,13 +154,13 @@ Two groups. Both matter, for different jobs.
 
 - **Positive reply rate.** Offer + copy + ICP precision. Target 15%+ of replies.
 
-- **Leads contacted per positive.** Combined efficiency. Target 1 per 50–100 ([{{SOP-04}}]).
+- **Leads contacted per positive.** Combined efficiency. Target 1 per 50–100 ((SOP 04)).
 
 ### Lagging - system health (1–2 weeks to mean anything)
 
-- **Lead-to-Appointment (LTA).** Reply-handling quality ([{{SOP-13}}]). Target 50%, min 30%.
+- **Lead-to-Appointment (LTA).** Reply-handling quality ((SOP 13)). Target 50%, min 30%.
 
-- **Show rate.** Pre-call nurture ([{{SOP-13}}]). Target 70%+.
+- **Show rate.** Pre-call nurture ((SOP 13)). Target 70%+.
 
 - **Qualification rate.** Targeting precision. Target 80%+.
 
@@ -194,7 +194,7 @@ Negative replies are feedback, not failure. Track the type:
 
 - **"****Not now / focused on Y.****"** Timing patterns. Some industries have cyclical buying windows you can exploit.
 
-Every 30 days, dump the last 60 days of replies into Claude: what objections recur, what language describes the problem, what proof lands? Feed it into next month's copy. This is the sentiment loop from Copy [{{SOP-09}}]. Most teams skip it.
+Every 30 days, dump the last 60 days of replies into Claude: what objections recur, what language describes the problem, what proof lands? Feed it into next month's copy. This is the sentiment loop from Copy (SOP 09). Most teams skip it.
 
 ## The optimization rhythm
 
@@ -230,7 +230,7 @@ The order is the logic. If it doesn't hit the inbox, nothing else matters. If th
 
 **How to read it.** The bounce message tells you a lot: whether the mailbox is inactive, the domain's too young or banned, you're landing in spam, or the company filters external email. Seed-test your own Gmail/Outlook for placement.
 
-**Fix.** Dial sending back hard, pause the affected domains, re-warm. Stand up fresh infrastructure in the background, and lean on the fast-track lane (LinkedIn + calls) to keep pipeline moving while inboxes recover. Full detail in Email Deliverability [{{SOP-05}}].
+**Fix.** Dial sending back hard, pause the affected domains, re-warm. Stand up fresh infrastructure in the background, and lean on the fast-track lane (LinkedIn + calls) to keep pipeline moving while inboxes recover. Full detail in Email Deliverability (SOP 05).
 
 ### Pillar 2 - Prospect (list quality & targeting)
 
@@ -240,7 +240,7 @@ Two different failure modes:
 
 - **Data quality off.** Right company and title, but invalid or catch-all emails got through, so bounce spikes. Fix: re-verify (double-verify), drop catch-alls.
 
-Both are covered in List Building [{{SOP-10}}].
+Both are covered in List Building (SOP 10).
 
 ### Pillar 3 - Offer & Copy (the message)
 
@@ -250,7 +250,7 @@ Both are covered in List Building [{{SOP-10}}].
 
 - **Lead-magnet lever.** Same copy approach, new bait. A different free thing to say yes to. Sometimes the words are fine and the magnet was the weak link.
 
-**Run both as parallel variants**, each changing one lever, so you can read which actually moved results (sometimes both do, on their own). Test directionally: eggs and flour, not word swaps. The **core offer** (price, packaging, positioning, risk reversal) is the slow, expensive lever you only reach for if neither moves the needle (Offer [{{SOP-07}}]).
+**Run both as parallel variants**, each changing one lever, so you can read which actually moved results (sometimes both do, on their own). Test directionally: eggs and flour, not word swaps. The **core offer** (price, packaging, positioning, risk reversal) is the slow, expensive lever you only reach for if neither moves the needle (Offer (SOP 07)).
 
 **On leverage.** In the build, the core offer has the most leverage of the three. A better offer beats better copy. But in optimization, copy and lead-magnet swaps do almost all the work, so that's where you start.
 
@@ -260,9 +260,23 @@ Both are covered in List Building [{{SOP-10}}].
 
 **Symptoms.** The three layers below all check out. You're hitting the inbox, reaching the right people, and the message converts, but you're still not booking enough calls. The layer everyone forgets: you're probably not broken, you're just under-volumed.
 
-**Fix.** Send more at the same ratio. The identical ratio at higher volume books more calls, and that's the point where cold email becomes profitable. But you have to know the math first: revenue per lead and emails per lead. Those two numbers live in the Money Model [{{SOP-04}}]. If the unit economics work, the fix isn't to tinker, it's to scale.
+**Fix.** Send more at the same ratio. The identical ratio at higher volume books more calls, and that's the point where cold email becomes profitable. But you have to know the math first: revenue per lead and emails per lead. Those two numbers live in the Money Model (SOP 04). If the unit economics work, the fix isn't to tinker, it's to scale.
 
 ## The diagnostic decision tree
+
+Short on time? Find your symptom below, the pillar and first fix follow.
+
+| The symptom | Likely pillar | First fix |
+|---|---|---|
+| High bounce (>5%) | Deliverability + data | Read bounce messages; pause / re-warm; re-verify the list. |
+| Reply rate dropped on the same list & copy | Deliverability | Check infra / warmup; dial back and re-warm. |
+| Low reply on a new / changed list | Prospect | Rebuild the list; relaunch the same winning copy. |
+| Lots of calls, low qualification rate | Prospect | Tighten ICP filters; re-score. |
+| Clean deliverability + targeting, low engagement | Offer & Copy | Test a copy-angle variant and a lead-magnet variant in parallel; core offer last. |
+| Decent replies, negatives cite price / not a priority | Offer, core | Rework price / positioning / risk reversal. |
+| Lots of positive replies, few calls booked (low LTA) | Booking process | Work the lead-to-appointment process: reply faster, make scheduling one-click, tighten follow-up. |
+| Low reply but high positive reply | Often normal | Don't fix it yet. Check leads-per-positive before changing anything. |
+| All layers healthy, just not enough calls | Scale | Send more at the same ratio; confirm revenue-per-lead & emails-per-lead. |
 
 ## Structuring tests after you diagnose
 
@@ -290,7 +304,7 @@ Fix the pillar that's actually broken, not the one that's easiest to tinker with
 
 - **Killing a winner by over-tweaking.** Scale instead.
 
-- **Keeping a loser alive.** 50%+ below benchmark after 5,000 contacts, pause, diagnose, restart.
+- **Keeping a loser alive.** 50%+ below benchmark after 1,000 contacts, pause, diagnose, restart.
 
 - **Diagnosing top-down.** Reaching for copy when the inbox or list is the problem. Work bottom-up.
 
@@ -314,7 +328,7 @@ Fix the pillar that's actually broken, not the one that's easiest to tinker with
 
 When the rhythm is running, you've stopped launching campaigns and started operating a system. That's the actual destination.
 
-**Next:** [{{SOP-12}}]
+**Next:** (SOP 12)
 
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month?
 

@@ -1,4 +1,4 @@
-# 12 — Tools Stack Index
+﻿# 12 — Tools Stack Index
 
 *The Launchpad Playbook  •  Module: Cross-cutting reference (tools)  •  Reading time: ~12 min  •  Action time: 30 min to pick your stack; 1–2 hours to set up the core tools*
 
@@ -74,7 +74,7 @@ Don't buy everything at once. Buy in this order:
 
 | **Tool** | **Best for** | **Pricing** | **Affiliate** |
 | --- | --- | --- | --- |
-| InboxKit | Default for everyone. Managed Google + Microsoft 365 + Azure inboxes, automatic warmup, domain rotation | ~50% off retail (passes through reseller savings) | {{AFF-InboxKit}} |
+| InboxKit | Default for everyone. Managed Google + Microsoft 365 + Azure inboxes, automatic warmup, domain rotation | ~50% off retail (passes through reseller savings) | {{AFF-InboxKit}} — code **GTMLAUNCHPAD** for $3/mailbox instead of $3.50 |
 
 **[LOOM: LOOM-05-InboxKit-Setup]** Full ordering walkthrough (also referenced in SOP 05).
 
@@ -86,7 +86,7 @@ Don't buy everything at once. Buy in this order:
 
 | **Tool** | **Best for** | **Pricing** | **Affiliate** |
 | --- | --- | --- | --- |
-| Sendkit | Default. Best UX, strong inbox warmup, isolated IP, native to InboxKit | $97–$300+/mo by tier | {{AFF-Sendkit}} |
+| Sendkit | Default. Best UX, strong inbox warmup, isolated IP, native to InboxKit | $97–$300+/mo by tier | {{AFF-Sendkit}} — code **10GTMLAUNCHPAD** for 10% off every plan |
 | Instantly | Alternative. Easy to start, good below ~5k/day | $97+/mo | {{AFF-Instantly}} |
 
 ### Lead orchestration (Clay / alternatives)
@@ -221,6 +221,16 @@ See SOP 13 — Lead-to-Appointment for the playbook on handling replies and usin
 
 **Use this when:** You want to close the loop between campaigns and what happens on calls. Common objections become copy updates. Prospect language becomes copy improvements. This feeds the sentiment loop in SOP 09.
 
+### Multichannel outreach (HeyReach)
+
+**What it does:** Automates LinkedIn touches (connection requests, messages, profile views) alongside your cold email, so a reply gets a warm LinkedIn touch instead of just another email.
+
+**When to buy:** Once you're stacking channels for lead-to-appointment (SOP 13) and want the LinkedIn touch automated instead of manual.
+
+**Affiliate:** {{AFF-HeyReach}}
+
+**Use this when:** You want the multi-channel stack in SOP 13, Step 6 automated. Automation handles the connect and message; a human still runs the actual warm call and conversation.
+
 ## Action items
 
 - Map your monthly volume (use the Launchpad Money Model, SOP 04).
@@ -233,7 +243,7 @@ See SOP 13 — Lead-to-Appointment for the playbook on handling replies and usin
 
 The goal: sending warm-up emails in 1–2 days, and live cold campaigns within 14–21 days after the inbox starts warming. Don't over-tool. Start with the minimum and add as the system tells you what it needs.
 
-**Next:** [{{SOP-13}}]
+**Next:** (SOP 13)
 
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month?
 

@@ -17,24 +17,24 @@ Status: Done / Not Done
 | Token | SOP | What the video shows | URL | Status | Also used in |
 |---|---|---|---|---|---|
 | LOOM-03-SCOPE-Trailer | 03 | Series trailer: Harvey walks the SCOPE pyramid, the five levers, why order matters | <<PASTE LOOM>> | Not Done | |
-| LOOM-04-MoneyModel-Intro | 04 | Intro: the one sentence every founder should be able to say | <<PASTE LOOM>> | Not Done | |
-| LOOM-04-MoneyModel-Walkthrough | 04 | Fill one ICP column end to end, read the funnel output | <<PASTE LOOM>> | Not Done | |
-| LOOM-04-MoneyModel-InfraCalc | 04 | Infra calculator: provider split, monthly cost, ROI, cheap vs premium domains | <<PASTE LOOM>> | Not Done | SOP 05 |
+| LOOM-04-MoneyModel-Intro | 04 | Intro: the one sentence every founder should be able to say | https://www.loom.com/share/d77133304b0a42df8f219c5603a1c996 | Done | |
+| LOOM-04-MoneyModel-Walkthrough | 04 | Fill one ICP column end to end, read the funnel output | https://www.loom.com/share/c3d5c39f70064d78820b3217c58ea7ee | Done | |
+| LOOM-04-MoneyModel-InfraCalc | 04 | Infra calculator: provider split, monthly cost, ROI, cheap vs premium domains | https://www.loom.com/share/0b0acdc7ba4e4598846ac47c0805feb1 | Done | SOP 05 |
 | LOOM-05-Dynadot-BuyDomains | 05 | Buying domains in Dynadot, DIY walkthrough | <<PASTE LOOM>> | Not Done | SOP 12 |
-| LOOM-05-InboxKit-Setup | 05 | Full end-to-end InboxKit ordering tutorial | <<PASTE LOOM>> | Not Done | SOP 12 |
+| LOOM-05-InboxKit-Setup | 05 | Full end-to-end InboxKit ordering tutorial (Supademo, not Loom) | https://app.supademo.com/demo/cmrusnsw41mdjqmsjah4hftyu?utm_source=gtmlaunchpad | Done | SOP 12 |
 | LOOM-05-InboxKit-ExportToSendkit | 05 | Export warmed InboxKit mailboxes into Sendkit before launch | <<PASTE LOOM>> | Not Done | |
 | LOOM-06-Claude-ICPResearch | 06 | Run the Claude market-research skill on a real list, output ICP and anti-ICP live | <<PASTE LOOM>> | Not Done | |
 | LOOM-07-Offer-Intro | 07 | Intro: it is almost never the copy, it is the offer | <<PASTE LOOM>> | Not Done | |
 | LOOM-07-Offer-GrandSlamMagnet | 07 | Build a stacked offer live, then AI builds a custom lead magnet | <<PASTE LOOM>> | Not Done | |
 | LOOM-09-Copy-DreamEmailAI | 09 | Write a Dream Email, dial it to evergreen, AI writes personalization at scale | <<PASTE LOOM>> | Not Done | |
 | LOOM-10-LeadList-Intro | 10 | Intro: why most people build their list backwards | <<PASTE LOOM>> | Not Done | |
-| LOOM-10-Clay-WhichModuleFirst | 10 | Which Clay University module to learn first | <<PASTE LOOM>> | Not Done | |
-| LOOM-10-Clay-MultiSourceBuild | 10 | Full multi-source list build in Clay, start to finish | <<PASTE LOOM>> | Not Done | |
-| LOOM-10-Clay-EnrichQA | 10 | Qualify column, personalization prompt, QA column | <<PASTE LOOM>> | Not Done | |
+| LOOM-10-Clay-WhichModuleFirst | 10 | Which Clay University module to learn first | https://www.loom.com/share/1b6a6bdf9b094c4c8f22247c408b3819 | Done | |
+| LOOM-10-Clay-MultiSourceBuild | 10 | Full multi-source list build in Clay, start to finish | https://www.loom.com/share/8b789ce08083454cb2ab24c693127eb1 | Done | |
+| LOOM-10-Clay-EnrichQA | 10 | Qualify column, personalization prompt, QA column | https://www.loom.com/share/40db70580f934d68a87a1a29fcbf7485 | Done | |
 | LOOM-11-Launch-Intro | 11 | Intro: launch is not press send, the 3-week sequence | <<PASTE LOOM>> | Not Done | |
 | LOOM-11-Diagnose-Dashboard | 11 | Leading/lagging dashboard, diagnose a stuck campaign bottom-up | <<PASTE LOOM>> | Not Done | |
 | LOOM-12-Clay-HowToUse | 12 | Clay orchestration walkthrough | <<PASTE LOOM>> | Not Done | |
-| LOOM-12-AIArk-HowToUse | 12 | How to use AI Ark | <<PASTE LOOM>> | Not Done | |
+| LOOM-12-AIArk-HowToUse | 12 | Full training on how to use AI Ark, w/ Elias Hamied (co-founder) | https://youtu.be/NLeqbQ6ahbE | Done | SOP 10 |
 | LOOM-12-LocalMaps-LeadSources | 12 | Local / Google Maps lead sources | <<PASTE LOOM>> | Not Done | |
 | LOOM-12-Clay-OpenAIEnrichment | 12 | OpenAI key + enrichment in Clay, when to use which function | <<PASTE LOOM>> | Not Done | |
 | LOOM-12-Waterfall-FinderValidator | 12 | Build your finder / validator waterfall | <<PASTE LOOM>> | Not Done | |

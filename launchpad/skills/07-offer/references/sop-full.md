@@ -1,4 +1,4 @@
-# 07 - Offer & Lead Magnet
+﻿# 07 - Offer & Lead Magnet
 
 *The Launchpad Playbook  •  Module: O in SCOPE - Offer  •  Reading time: 14 min*
 
@@ -60,7 +60,7 @@ The mistake most founders make: starting with low-ticket to "scale fast." Until 
 
 Before you make an offer irresistible, it has to clear three pass/fail tests. These don't make it good - they confirm you have one.
 
-- **Is it a real solution to a real pain?** Refer back to the pain research in [{{SOP-06}}]. If your offer doesn't solve one of the pains you identified, you have a product looking for a problem.
+- **Is it a real solution to a real pain?** Refer back to the pain research in (SOP 06). If your offer doesn't solve one of the pains you identified, you have a product looking for a problem.
 
 - **Is it priced right for the value delivered?** Cold prospects won't do the math for you. The classic frame: 10x the value, 1x the price. If it delivers $100K of value, price it $5K–$25K, not $80K. The clearer the ROI, the easier the sale.
 
@@ -94,13 +94,15 @@ The fastest wins are almost always on dials 2, 3, and 4. Founders obsess over th
 
 The single fastest way to spike perceived likelihood is to take the risk off the prospect and put it on yourself. In cold outbound, the prospect's #1 silent objection is always "this won't work for my business." Four flavors, roughly in order of aggression:
 
-- **Conditional guarantee.** "If we don't book you X calls in 90 days, we work for free until we do." Ties your pay to their result.
+**The Guarantee Ladder.** Four ways to make "yes" feel safe. The higher you climb, the more you de-risk the buyer, and the more it costs you if you can't deliver.
 
-- **Unconditional guarantee.** "Don't love it in 30 days? Full refund." Rare in services, nuclear when you can afford it.
+- **4 - Performance / pay-on-results.** "You only pay per qualified call booked." Removes risk almost entirely - only offer it once your system reliably delivers.
 
-- **Performance / pay-on-results.** "You only pay per qualified call booked." Removes risk almost entirely - only offer it once your system reliably delivers.
+- **3 - Unconditional guarantee.** "Don't love it in 30 days? Full refund." Rare in services, nuclear when you can afford it.
 
-- **Implied guarantee.** The custom lead magnet itself (free audit, free pilot) is a soft guarantee - they see the goods before they pay a cent.
+- **2 - Conditional guarantee.** "If we don't book you X calls in 90 days, we work for free until we do." Strong default for services, ties your pay to their result.
+
+- **1 - Implied guarantee.** The custom lead magnet itself (free audit, free pilot) is a soft guarantee - they see the goods before they pay a cent. Always available, your lead magnet doing double duty.
 
 Rule: never offer a guarantee you can't survive paying out at scale. The point isn't to give money back; it's to make saying yes feel safe enough that the prospect stops stalling. The more saturated your market, the more work the guarantee does.
 
@@ -166,7 +168,7 @@ Here's the bridge to the next doc. The offer/magnet choice maps directly onto th
 
 - **Signal campaigns.** The trigger itself is half the pitch, so the magnet can be lighter or tied directly to the signal. "Saw the FTC filing - we'll run a compliance-gap audit on your exposure" fuses the signal and the magnet into one hyper-relevant offer. That fusion is why signal campaigns convert higher and justify hyper-personalized, multi-touch effort.
 
-This is why you build different magnets per market and per motion, not one universal magnet. You'll assign each one to a specific playbook in Campaign Architecture [{{SOP-08}}].
+This is why you build different magnets per market and per motion, not one universal magnet. You'll assign each one to a specific playbook in Campaign Architecture (SOP 08).
 
 ## The market sophistication check
 
@@ -254,7 +256,7 @@ Diagnose at the offer layer first.
 
 When you've done all of it, you have a sellable, irresistible offer + lead magnet pair, split by campaign type. Now the campaigns can be designed around it.
 
-**Next:** [{{SOP-08}}]
+**Next:** (SOP 08)
 
 # 👉 Want us to design your offer, build your lead magnet, and run your campaigns for you? 
 

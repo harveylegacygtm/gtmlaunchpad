@@ -143,4 +143,4 @@ copy-qa agent and reference/spam_words.md, mailboxes and warmup from
 11-launch. After launch, sendkit-analyze-campaign reads the numbers. The create
 body shape is best-effort, confirm it on first run (inspect an existing campaign
 or read the API response). Connection details live in reference/tool-connections.md.
-Build questions go to the launchpad-orchestrator skill.
+Build questions go to the orchestrator skill.

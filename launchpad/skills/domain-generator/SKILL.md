@@ -88,4 +88,4 @@ Keys come from env only, never printed, never committed. This is an operational
 tool under the 05-deliverability stage: 05 decides how many domains and the
 naming rules, this skill finds and prices them, and domain-purchase buys them.
 Connection details live in reference/tool-connections.md. Build questions go to
-the launchpad-orchestrator skill.
+the orchestrator skill.

@@ -102,8 +102,9 @@ reach for copy first.
    parallel (spin and QA them with spintax-sendkit and copy-qa). Route to
    09-copy-frameworks and 07-offer.
 4. Scale. All three below check out but still not enough calls. You are probably
-   under-volumed. Send more at the same ratio once the math confirms it. Route to
-   04-scale.
+   under-volumed. Send more at the same ratio once the math confirms it. If they
+   already have a model and want the one stage costing the most email, route to
+   money-model-analyzer. To build a model from scratch, route to 04-scale.
 
 Back half: replies are healthy but calls do not book or do not show (low LTA or
 show rate). Route to 13-lead-to-appointment.
@@ -125,5 +126,5 @@ re-measure, then move up. Do not change five things at once or you learn nothing
 ## Where this hands off
 
 Build questions ("where do I start," "what's next") go to the
-launchpad-orchestrator skill instead. Follow CLAUDE.md. Reference Loom and
+orchestrator skill instead. Follow CLAUDE.md. Reference Loom and
 affiliate tokens, never raw URLs.

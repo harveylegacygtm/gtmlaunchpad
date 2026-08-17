@@ -34,6 +34,7 @@ marked GATED and will not do anything until you approve in your own terminal.
 | Prompt | Skill | Pass = |
 | --- | --- | --- |
 | "build my money model" | 04-scale | Asks deal size and goal, returns email volume and cost |
+| "which stage of my funnel should I fix first" | money-model-analyzer | Scores every stage against benchmark, names the one that costs the most email |
 | "set up my domains and inboxes" | 05-deliverability | Decides domain and inbox counts from your volume, gives a build plan and cost |
 | "build my ICP" | 06-market-research | Asks for customer data, produces ICP, signal map, two lists |
 | "build my offer" | 07-offer | Runs the value equation, produces offer and lead magnet |

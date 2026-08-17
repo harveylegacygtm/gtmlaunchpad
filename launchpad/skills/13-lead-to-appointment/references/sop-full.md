@@ -1,4 +1,4 @@
-# 13 — Lead to Appointment
+﻿# 13 — Lead to Appointment
 
 *The Launchpad Playbook  •  Module: Convert (reply → booked → shown)  •  Reading time: ~16 min*
 
@@ -18,7 +18,7 @@ By the end you'll be able to:
 
 ## TL;DR
 
-- This is the whole back half of the funnel: everything from the moment a reply lands to the moment the prospect shows up. It owns two numbers: lead-to-appointment (LTA: reply → booked, target 50%, min 30%) and show rate (booked → held, target 70%+). Both feed the money model [{{SOP-04}}].
+- This is the whole back half of the funnel: everything from the moment a reply lands to the moment the prospect shows up. It owns two numbers: lead-to-appointment (LTA: reply → booked, target 50%, min 30%) and show rate (booked → held, target 70%+). Both feed the money model (SOP 04).
 
 - A reply is the most valuable event in the system, including the no's. Speed-to-lead wins: respond in minutes, not days. The first hour is worth more than the next three days combined.
 
@@ -30,7 +30,7 @@ By the end you'll be able to:
 
 ## Where this fits
 
-The campaign's job was to earn a reply. This is what you do with it. This doc takes a raw inbound reply, turns it into a booked call, and keeps that booking warm until they show up ready to buy. It's the conversion layer: the difference between a campaign that "gets replies" and one that books and holds meetings. The two numbers it owns, LTA and show rate, are lagging metrics [{{SOP-11}}], and they're where most pipeline quietly leaks.
+The campaign's job was to earn a reply. This is what you do with it. This doc takes a raw inbound reply, turns it into a booked call, and keeps that booking warm until they show up ready to buy. It's the conversion layer: the difference between a campaign that "gets replies" and one that books and holds meetings. The two numbers it owns, LTA and show rate, are lagging metrics (SOP 11), and they're where most pipeline quietly leaks.
 
 ## The through-line: stay consistent with the cold email
 
@@ -50,7 +50,7 @@ Think about what a reply costs: domains, inboxes, warmup, a list you qualified a
 
 **Speed-to-lead is the single biggest lever.** Interest decays by the hour. Reply in five minutes and you catch them while they're still in their inbox thinking about you. Reply in two days and you're a stranger reintroducing yourself. Triage within minutes during working hours, not once a day. If you do nothing else in this doc, respond faster.
 
-**Even the no's are gold.** A prospect who tells you "not interested, we already have a vendor" just handed you market intelligence you'd pay a research firm for. The money is in the mouth of the market. Log what they say and feed it into next month's copy and offer [{{SOP-09}}]. Don't delete it. Mine it.
+**Even the no's are gold.** A prospect who tells you "not interested, we already have a vendor" just handed you market intelligence you'd pay a research firm for. The money is in the mouth of the market. Log what they say and feed it into next month's copy and offer (SOP 09). Don't delete it. Mine it.
 
 **The prime directive:** every reply gets driven toward a booked call with the least friction possible. That's the job. Everything below is how.
 
@@ -68,7 +68,7 @@ Keep it boring and built once. The stack:
 
 - **SMS tool.** For booking confirmations and reminders. Texts get read; emails get buried.
 
-- **Call recording (Fathom).** Record every held call. The transcripts feed the sentiment loop in Copy [{{SOP-09}}].
+- **Call recording (Fathom).** Record every held call. The transcripts feed the sentiment loop in Copy (SOP 09).
 
 - **LinkedIn.** For the multi-channel stack in section 5.
 
@@ -110,7 +110,7 @@ Looking forward to it, {{signature}}
 
 **5. Not now / timing.** "Circle back in Q3." Real, common, and easy to fumble. Don't drop them and don't pester. Confirm the timeframe, set a concrete follow-up, and add them to a re-engagement track. Timing no's turn into yeses more than any other type, if you actually follow up.
 
-**6. Unsubscribe / angry.** "Take me off your list." Remove them immediately, no argument. This is non-negotiable: user-reported spam is the #1 killer of deliverability [{{SOP-05}}], and the thresholds are brutally low. One graceful removal protects the inboxes that earn every other reply.
+**6. Unsubscribe / angry.** "Take me off your list." Remove them immediately, no argument. This is non-negotiable: user-reported spam is the #1 killer of deliverability (SOP 05), and the thresholds are brutally low. One graceful removal protects the inboxes that earn every other reply.
 
 **7. Auto-reply / out-of-office.** Not a human, so don't treat it like one. Pull the contact out of the active flow and re-queue for after the return date. Sendkit's inbox flags these for you.
 
@@ -206,7 +206,7 @@ Two levers, in order of leverage:
 
 - Wire reply → booked → shown → outcome into the CRM so you can see LTA and show rate.
 
-**Next:** [{{SOP-00}}]
+**Next:** (SOP 00)
 
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month?
 

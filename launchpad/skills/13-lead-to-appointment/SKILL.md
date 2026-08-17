@@ -185,8 +185,7 @@ feed the sentiment loop in 09-copy-frameworks), and LinkedIn for the stack.
 Follow CLAUDE.md. Reader is a sophisticated operator, move to execution. Grade 6,
 short sentences, no em-dashes, lead with the outcome. Reference tools by token,
 never raw URLs. The through-line (consistency with the cold email) runs through
-every asset. SOP 13 has no monetization, so this skill ends with no house CTA
-block, on purpose.
+every asset.
 
 This skill is the conversion layer after the build. It takes the angle, offer,
 and voice from 09-copy-frameworks, removes unsubscribes per 05-deliverability,
@@ -194,6 +193,20 @@ feeds reasons back into the 09 sentiment loop, reports LTA and show rate up to
 11-launch's lagging dashboard, and its multi-channel stack powers 11-launch's
 fast-track lane. Both numbers feed 04-scale.
 
-Broad build questions go to the launchpad-orchestrator skill. Broken-result
+Broad build questions go to the orchestrator skill. Broken-result
 questions ("calls aren't showing up," "replies don't book") come from the
 diagnostic skill, which routes the back-half symptoms here.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+_________________
+
+# Want us to build your reply-to-show engine for you so every booked call actually shows up? Book a call: {{CTA-BookCall}}
+
+_________________

@@ -1,4 +1,4 @@
-# 10 - Prospect: Lead List Building
+﻿# 10 - Prospect: Lead List Building
 
 *The Launchpad Playbook  •  Module: P in SCOPE - Prospect (execution)  •  Reading time: ~14 min*
 
@@ -34,9 +34,9 @@ By the end you'll be able to:
 
 This is the execution step. Your campaigns are designed, your copy is written, and the Dream Email told you exactly what data each campaign needs. Now you go build the list to match - as cheaply as you can.
 
-You build one list per campaign, and the build changes by campaign type. The Signal-to-Offer Map from ICP [{{SOP-06}}] tells you what to enrich for. The campaign tells you which signals matter. The Dream Email tells you the data you wish you had. The gap between what you wish you had and what you can afford is the cost call you make here.
+You build one list per campaign, and the build changes by campaign type. The Signal-to-Offer Map from ICP (SOP 06) tells you what to enrich for. The campaign tells you which signals matter. The Dream Email tells you the data you wish you had. The gap between what you wish you had and what you can afford is the cost call you make here.
 
-**🎁 Launchpad Deal - 500 leads to launch with (Sendkit)** Want a head start while you learn the build? **Get 500 leads with verified emails - enough to launch your first campaign - through Sendkit.** You can be sending this week. 👉 Claim it here: {{AFF-Sendkit}}
+**🎁 Launchpad Deal - 500 leads to launch with (Sendkit)** Want a head start while you learn the build? **Get 500 leads with verified emails - enough to launch your first campaign - through Sendkit.** You can be sending this week. 👉 Claim it here: {{AFF-Sendkit}} and use code **10GTMLAUNCHPAD** for 10% off every Sendkit plan.
 
 ## The order: Accounts → Qualify → Enrich & Score → Contacts → Emails
 
@@ -177,7 +177,7 @@ Some tasks do best as one big prompt (cheaper, harder to debug); some as a few s
 
 - **Prompt 3 (Personalize):** Given that summary + signal, write one specific cold-email opener.
 
-Notice prompt 3: the same enrichment that qualifies and scores the company also writes the personalization line. That's the Signal-to-Offer Map [{{SOP-06}}] in action - one pass, two jobs. You don't enrich twice.
+Notice prompt 3: the same enrichment that qualifies and scores the company also writes the personalization line. That's the Signal-to-Offer Map (SOP 06) in action - one pass, two jobs. You don't enrich twice.
 
 ### Writing custom prompts
 
@@ -211,7 +211,7 @@ Then filter for CHECK to see your miss rate, and spot-check 10–20 random rows 
 
 ## The email waterfall - find emails last
 
-Email accuracy separates good lists from disasters. Invalid and catch-all addresses spike your bounce rate and tank deliverability (>5% bounce is dangerous; >10% is an emergency - see Email Deliverability [{{SOP-05}}]). Run a waterfall: when one provider can't return a verified email, try the next. Cheapest first, stop at the first verified hit.
+Email accuracy separates good lists from disasters. Invalid and catch-all addresses spike your bounce rate and tank deliverability (>5% bounce is dangerous; >10% is an emergency - see Email Deliverability (SOP 05)). Run a waterfall: when one provider can't return a verified email, try the next. Cheapest first, stop at the first verified hit.
 
 - **Dedupe by LinkedIn URL first.** Same URL = same person. Dedupe before you spend a credit finding emails.
 
@@ -297,7 +297,7 @@ Store lists per client in a Raw → Enriched folder structure, named the same wa
 
 That's a complete, cost-layered list build - scored, prioritized, fresh, and matched to the copy you already wrote.
 
-**Next:** [{{SOP-11}}]
+**Next:** (SOP 11)
 
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month?
 

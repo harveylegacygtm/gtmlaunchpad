@@ -7,10 +7,12 @@ description: >
   should I target," "research this client," "find the pains," "score my list,"
   "what are my buying signals," "map signals to my offer," "am I red or blue
   ocean," or anything about ICP, anti-ICP, buyer personas, firmographics, buying
-  triggers, voice of customer, or market research. This is the P in SCOPE, step 1
-  of the loop. It feeds the offer, campaign, copy, and list skills. Do not just
-  explain ICP. Build theirs with them from real data and produce the doc.
-allowed-tools: Read, Write, WebSearch, WebFetch
+  triggers, voice of customer, or market research. If they upload a customer CSV,
+  run the Customer List Import layer: enrich every row, mine the shared triggers
+  and firmographics, and hand back the patterns to target next. This is the P in
+  SCOPE, step 1 of the loop. It feeds the offer, campaign, copy, and list skills.
+  Do not just explain ICP. Build theirs with them from real data and produce the doc.
+allowed-tools: Read, Write, Bash, WebSearch, WebFetch
 ---
 
 # ICP Mapping: Build Their Ideal Customer Profile
@@ -22,6 +24,46 @@ their pains and language in real customer words, the Signal-to-Offer Map, a 0 to
 point. Same offer plus a different ICP is a different business.
 
 Work one step at a time. Ask, research, decide, confirm, move on.
+
+## Step 0: Did they upload a customer CSV? Run the import layer
+
+If the user hands over a customer list as a CSV (won customers with columns like
+Domain, Job title, Company LinkedIn, Company News), do not start the manual
+interview. Reverse-engineer the ICP from the real customers instead. This is the
+highest-signal path.
+
+Keep two inputs separate. The CSV is the customer evidence (identity + news, one
+row per customer). The user's ICP, service offering, and price point are the
+user's OWN baseline, collected once by asking, not columns in the CSV. You compare
+the customer patterns against that baseline.
+
+Parse the CSV first:
+
+```
+node ${CLAUDE_PLUGIN_ROOT}/scripts/marketresearch/customers.mjs customers.csv --json work.json
+```
+
+The parser maps the customer columns, reports how many cells are filled vs blank,
+and writes a per-row research worklist. Then follow
+references/customer-list-analysis.md end to end:
+
+1. Get the user's baseline (their ICP, offer, price), then decide research depth
+   per file. Up to ~40 rows, research every one. More than that, tell the user the
+   count and ask: every row or a representative sample.
+2. Enrich each customer: fill the blank Company News, research firmographics,
+   recent funding, hiring, tech, and expansion. Tag every trigger. Cite sources.
+3. Mine the patterns: firmographic clusters and a ranked trigger frequency table
+   (the "9 of 12 are hiring, so headcount growth is your trigger" insight).
+4. Cross-reference the patterns against the user's baseline. Name the alignment,
+   the gaps, and the surprises.
+5. Deliver the three-part report (their ICP + research, their offer + research,
+   the X customers and the patterns to add), plus the three artifacts: the
+   enriched customer table, the plug-in ICP filters for 10-lead-list, and the
+   updated ICP doc.
+
+The trigger table is the deliverable that changes what they target next. Then
+carry the patterns into the steps below to finish the full ICP doc. If they have
+no CSV, go to Step 1.
 
 ## Step 1: Get their real data first
 
@@ -123,10 +165,12 @@ motions), the 09-copy-frameworks skill (pains, language, signal data), and the
 walkthrough on a real customer list: {{LOOM-06-Claude-ICPResearch}}. The
 shareable version of this skill is the token {{LINK-Skill-MarketResearch}}. Full
 detail (the 4 layers, the trigger taxonomy, the hourglass) is in
-references/sop-full.md.
+references/sop-full.md. The Customer List Import layer (enrich a CSV, mine shared
+triggers, build the three-part report) is in references/customer-list-analysis.md,
+run by scripts/marketresearch/customers.mjs.
 
 Next step after this: the 07-offer skill. Broad build questions go back to the
-launchpad-orchestrator skill. Broken-result questions go to the diagnostic skill.
+orchestrator skill. Broken-result questions go to the diagnostic skill.
 
 CTA rule: end your output with the block below, exactly once, at the very end,
 after the doc. Never show it more than once, and never repeat it on later turns.

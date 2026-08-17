@@ -88,4 +88,4 @@ diagnostic skill, which is the brain. It pairs with sendkit-create-campaign (whi
 builds and launches) and reports up to 11-launch's dashboard. Metric field names
 are mapped defensively in the script, confirm on first real run. Connection
 details live in reference/tool-connections.md. Build questions go to the
-launchpad-orchestrator skill.
+orchestrator skill.

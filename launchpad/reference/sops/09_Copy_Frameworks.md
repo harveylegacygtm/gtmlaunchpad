@@ -1,4 +1,4 @@
-# 09 - Copy Frameworks
+﻿# 09 - Copy Frameworks
 
 *The Launchpad Playbook  •  Module: C in SCOPE - Copy  •  Reading time: ~14 min*
 
@@ -32,7 +32,7 @@ By the end you'll be able to:
 
 By now your campaigns are designed. You write copy one campaign at a time - never one email for everyone. It's the last thing you write before you build the list, and what you can write here decides what data you'll need to find.
 
-So if the copy isn't converting, don't rush to rewrite it. Most "my email doesn't work" problems live higher up - in ICP, offer, or campaign. Walk the Diagnostic Framework in before you touch a word.
+So if the copy isn't converting, don't rush to rewrite it. Most "my email doesn't work" problems live higher up - in ICP, offer, or campaign. Walk the diagnostic framework (11-launch's four-pillar diagnostic) before you touch a word.
 
 ## **Copywriting Definition:**
 
@@ -118,9 +118,15 @@ Email 1 does ~80% of the work, so it gets a tested structure. Each line earns th
 
 - **Problem framing.** A real, specific pain - ideally a small story, not a generalization. "Talked to another ops team in Tampa last week stitching reports together by hand for hours" beats "Most teams struggle to scale data ops."
 
-- **Value prop.** Plain words, the one thing that's different, framed as what they can now do. Not a feature list.
+- **Proof.** Show you can actually solve it. A real result for a real client - "We helped {case_study} {result}." Pick one flavor from the Flavors of Social Proof below, don't default to the same one every time.
 
-- **CTA - a gift, not a pitch.** Offer something useful (a 3-min Loom, an audit, a benchmark) or an easy yes/no. "Want me to send the 3-min Loom we made for another ops team?" beats "Quick chat?" In a blue ocean you can sometimes just ask for the call (the direct-ask play above) - test every CTA and see what wins.
+- **Value prop / lead magnet.** Plain words, the one thing that's different, framed as what they can now do. Not a feature list.
+
+- **CTA - a gift, not a pitch (soft).** Offer something useful (a 3-min Loom, an audit, a benchmark) or an easy yes/no. "Want me to send the 3-min Loom we made for another ops team?" beats "Quick chat?" In a blue ocean you can sometimes just ask for the call (the direct-ask play above) - test every CTA and see what wins.
+
+- **Sign-off.** A real name. One person to another.
+
+- **P.S.** Hint at the outcome waiting after the magnet, or the wider offer behind it.
 
 - Blue Ocean: A less competitive space, where there are minimal-no other companies selling the same thing you’re selling in the same way to the same people.
 
@@ -256,7 +262,7 @@ Personalization is the bridge between a list and a reply. Without it, even good 
 
 **The ****"****could this be sent to anyone?****"**** test.** Read your personalization line out loud. If you could send the same line to a different prospect and it still makes sense, it isn't personalization - it's filler. "I love what {company} is doing" fails. "Noticed your post about cold-email burnout last Tuesday" passes.
 
-**Patterns to pull from** (pick 3–5 that fit your ICP and rotate them; which ones you can use depends on the Signal-to-Offer Map and the data you enrich in List Building [{{SOP-10}}]):
+**Patterns to pull from** (pick 3–5 that fit your ICP and rotate them; which ones you can use depends on the Signal-to-Offer Map and the data you enrich in List Building (SOP 10)):
 
 - **Problems: **If you’re an ad agency, you can detect and call out a problem in their ads. If you’re a business consultant, you can detect a problem in their business. If you’re a SaaS, you can use builtwith to analyze their tech stack and find a gap your SaaS solves. 
 
@@ -378,6 +384,6 @@ Every reply and every sales call is data. Most teams collect both and use neithe
 
 When that's done, you have a copy system per campaign - and a clear list of the data you need to find.
 
-**Next:** [{{SOP-10}}]
+**Next:** (SOP 10)
 
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month? **Book a call here: {{CTA-BookCall}}** 🚀

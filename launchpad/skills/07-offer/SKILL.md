@@ -65,13 +65,21 @@ two down. For each dial, write one concrete change for their offer:
 The fast wins are almost always dials 2, 3, and 4. Founders obsess over the
 outcome and leave belief, speed, and ease untouched.
 
-## Step 4: Reverse the risk
+## Step 4: Reverse the risk with the Guarantee Ladder
 
-The fastest way to spike belief is to take the risk off the prospect. Pick a
-guarantee they can survive paying out at scale: conditional ("book X calls in 90
-days or we work free until we do"), unconditional (full refund), performance
-(pay per qualified call), or implied (the free custom magnet itself). Write it in
-one sentence.
+The fastest way to spike belief is to take the risk off the prospect. Four rungs,
+ranked by how much they de-risk the buyer and how much it costs you if you miss:
+
+4. Performance / pay-on-results ("you only pay per qualified call booked").
+   Removes risk almost entirely, only once your system reliably delivers.
+3. Unconditional guarantee (full refund). Rare in services, nuclear when you can
+   afford it.
+2. Conditional guarantee ("book X calls in 90 days or we work free until we
+   do"). Strong default for services, ties your pay to their result.
+1. Implied guarantee (the free audit or pilot itself, they see the goods before
+   paying a cent). Always available, your lead magnet doing double duty.
+
+Pick one they can survive paying out at scale. Write it in one sentence.
 
 ## Step 5: Red ocean or blue ocean
 
@@ -127,7 +135,7 @@ detail (the four magnet jobs, guarantee flavors, worked red and blue ocean
 examples) is in references/sop-full.md.
 
 Next step after this: the 08-campaign-architecture skill. Broad build questions
-go back to the launchpad-orchestrator skill. Broken-result questions go to the
+go back to the orchestrator skill. Broken-result questions go to the
 diagnostic skill.
 
 CTA rule: end your output with the block below, exactly once, at the very end,

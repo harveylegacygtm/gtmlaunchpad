@@ -119,33 +119,33 @@ You sell B2B SaaS at $10,000 ACV. You want $50,000 in new revenue over 90 days.
 
 $50,000 ÷ $10,000 ACV          = 5 deals needed
 
-5 deals ÷ 25% close rate       = 20 qualified calls needed
+5 deals ÷ 20% close rate       = 25 qualified calls needed
 
-20 qualified ÷ 80% qual        = 25 held calls needed
+25 qualified ÷ 80% qual        = 32 held calls needed
 
-25 held ÷ 70% show             = 36 booked calls needed
+32 held ÷ 70% show             = 46 booked calls needed
 
-36 booked ÷ 30% LTA            = 120 positive replies needed
+46 booked ÷ 30% LTA            = 154 positive replies needed
 
-120 positive × 75 ratio        = 9,000 leads to contact
+154 positive × 75 ratio        = 11,550 leads to contact
 
-9,000 leads × 3 × 0.85         = 22,950 emails over 90 days
+11,550 leads × 3 × 0.85        = 29,453 emails over 90 days
 
-22,950 ÷ 3 months              = 7,650 emails / month  (~348/day on 22 sending days)
+29,453 ÷ 3 months              = 9,818 emails / month  (~446/day on 22 sending days)
 
 That's a model. Now you have something to optimize, scale, and forecast against.
 
 ## What it costs - a quick example
 
-You can't model revenue without a sense of infrastructure cost. Here's a *ballpark* using the simplest possible setup - **Google-only** - for the $50K example above (7,650 emails/month ≈ 348/day across 22 sending days):
+You can't model revenue without a sense of infrastructure cost. Here's a *ballpark* using the simplest possible setup - **Google-only** - for the $50K example above (9,818 emails/month ≈ 446/day across 22 sending days):
 
-- Google sends at 15 emails/inbox/day → **~24 inboxes**
+- Google sends at 15 emails/inbox/day → **~30 inboxes**
 
-- 3 inboxes per domain → **~8 domains**
+- 3 inboxes per domain → **~10 domains**
 
-- Inboxes: 24 × ~$3.50 ≈ **$84/mo** · Domains (cheap, amortized): ≈ **$9/mo**
+- Inboxes: 30 × ~$3.50 ≈ **$105/mo** · Domains (cheap, amortized): ≈ **$12/mo**
 
-- **Raw sending infrastructure ≈ $93/month.** Software and data stack on top - Sendkit (~$97), Clay (~$446), and data (~$77) bring the monthly total to **~$713 with cheap domains**. The calculator totals it for you.
+- **Raw sending infrastructure ≈ $117/month.** Software and data stack on top - Sendkit (~$97), Clay (~$446), and data (~$98) bring the monthly total to **~$758 with cheap domains**. The calculator totals it for you.
 
 **⏸ Before you configure real infrastructure - read SOP 05.** Which provider you send through (**Google, Microsoft 365, or Azure**) and how you split your volume is a *deliverability* decision, not a math one - and it changes your cost. SOP 05 covers all three and helps you pick your mix. **Then** come back and run the Infra Calculator tab with your real split.
 
@@ -203,7 +203,7 @@ You're after repeatable wins, not the one perfect campaign. Three good campaigns
 
 **Mistake 3 - Not tracking LTA.** You celebrate 50 positive replies, then realize 8 booked calls. That's not a lead-gen problem - it's reply handling. Track LTA and you'll find the leak fast. (See **SOP 13**.)
 
-**Mistake 4 - Underestimating volume needed.** You decide you need 20 deals but forget close rate (25%), qual rate (80%), show rate (70%). You actually need ~143 booked calls → ~477 positive replies → ~35,800 contacts → ~91,000 emails. Always do the full backward math. The calculator does it for you - use it.
+**Mistake 4 - Underestimating volume needed.** You decide you need 20 deals but forget close rate (20%), qual rate (80%), show rate (70%). You actually need ~179 booked calls → ~597 positive replies → ~44,800 contacts → ~114,000 emails. Always do the full backward math. The calculator does it for you - use it.
 
 **Mistake 5 - Treating the model as static.** Numbers change as you optimize. Re-run monthly. As offer, copy, and ICP improve, leads-per-positive drops; as reply handling improves, LTA climbs. The model should get more efficient over time. If it's not, something's wrong.
 

@@ -1,4 +1,4 @@
-# 08 - Campaign Architecture & Playbooks
+﻿# 08 - Campaign Architecture & Playbooks
 
 *The Launchpad Playbook  •  Module: Operating layer (P × O → campaigns)  •  Reading time: ~11 min*
 
@@ -158,7 +158,7 @@ When something isn't working, most people reach for the copy. Wrong move. Here's
 
 - **Test the copy.** Real, but it usually moves things 20–50%, not 3–5x. Smallest of the three.
 
-This is also why the Diagnostic Framework in [{{SOP-11}}] checks things from the bottom up: most broken campaigns are broken above the copy. How to actually run and test them is in that same doc.
+This is also why the Diagnostic Framework in (SOP 11) checks things from the bottom up: most broken campaigns are broken above the copy. How to actually run and test them is in that same doc.
 
 ## Test the angle, not the words
 
@@ -212,7 +212,7 @@ When a campaign hits the benchmark (roughly 1 positive reply per 50–100 people
 
 When that's done, you have a set of campaigns - and a clear brief for the copy you write next.
 
-**Next:** [{{SOP-09}}]
+**Next:** (SOP 09)
 
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month? 
 
