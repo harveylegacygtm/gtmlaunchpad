@@ -202,8 +202,6 @@ Two levers, in order of leverage:
 
 - Wire reply → booked → shown → outcome into the CRM so you can see LTA and show rate.
 
-**Next:** (SOP 00)
-
 # 👉 Want us to do this all for you and get you 10–30+ qualified meetings booked a month?
 
 # **Book a call here: {{CTA-BookCall}}** 🚀
