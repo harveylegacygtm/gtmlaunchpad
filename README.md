@@ -82,17 +82,6 @@ domains," "write my cold email," or "analyze my campaign."
 
 ---
 
-## For the maintainer
-
-- The plugin source of truth is [launchpad/](launchpad/). The build rulebook is
-  [CLAUDE.md](CLAUDE.md).
-- Before going live, paste real links into
-  [launchpad/reference/affiliate_links.md](launchpad/reference/affiliate_links.md)
-  and [launchpad/reference/loom_links.md](launchpad/reference/loom_links.md), and
-  set the booking link (`CTA-BookCall`) and main site (`DOMAIN-Main`). Every skill
-  and SOP that uses a token updates at once.
-- `.claude/` is a local-only test mirror (git-ignored). Do not edit it directly,
-  it is a copy of `launchpad/`.
 
 ---
 
