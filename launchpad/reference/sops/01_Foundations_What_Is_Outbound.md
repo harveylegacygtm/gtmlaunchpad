@@ -112,7 +112,7 @@ The Launchpad is email-first because email is where the leverage is, but the met
 
 This is the orientation doc. Every other SOP assumes you understand what outbound is and why it works. If anything here was new to you, re-read once before moving on.
 
-**Next:** [02_Foundations_OIP_Sequencing_v2.md](http://docs.google.com/document/d/1FEnoW4kV4dI9IRxz_ekdMJ_SB7JRG51Thm8HcdSywn0/edit?tab=t.0#heading=h.nmzonk618j6m)
+**Next:** [SOP 02 - Foundations: OIP Sequencing](https://claude.ai/code/artifact/0f3f33ab-5f66-47b1-b018-0b937d311aba)
 
 OIP - Outbound, Inbound, Paid - is the sequencing methodology. 
 

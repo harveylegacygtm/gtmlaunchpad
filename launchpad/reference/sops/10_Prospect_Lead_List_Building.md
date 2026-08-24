@@ -4,8 +4,6 @@
 
 **Step 5 of 5:  ICP → Offer → Campaign → Copy → List**
 
-**[LOOM: LOOM-10-LeadList-Intro]** Harvey on camera: "Why most people build their list backwards - and pay for it." Place under the title.
-
 ## What you get from this SOP
 
 **How to build a list of real buyers - people who actually need what you sell, can afford it, and are ready to act right now. Not 10,000 random names. A clean, scored list of the right people, built cheap.**
@@ -72,7 +70,7 @@ Each source has different strengths, cost, and coverage. Combining two or three 
 
 ### AI Ark - primary source
 
-Replaces what most people used Apollo for. Pulls company data, people data, and verified emails (bounce-banned) in one tool, and it has an API - so it works as both a discovery tool and a first-pass email finder in your waterfall. For most users it covers 60–70% of your market on its own. Start here. [{{AFF-AIArk}}]
+Replaces what most people used Apollo for. Pulls company data, people data, and verified emails (via {{AFF-BounceBan}}) in one tool, and it has an API - so it works as both a discovery tool and a first-pass email finder in your waterfall. For most users it covers 60–70% of your market on its own. Start here. [{{AFF-AIArk}}]
 
 ### Prospeo - primary #2
 
@@ -88,7 +86,7 @@ Sign up for Clay here: [{{AFF-Clay}}]
 
 Note: this training is built entirely on Clay. If you've never used it (or a tool like it), watch Clay University's basic training first - here:
 
-Here’s a loom showing you which Clay university module you should learn first: [LOOM: LOOM-10-Clay-WhichModuleFirst]
+Here’s a loom showing you which Clay University module you should learn first: [LOOM: LOOM-10-Clay-WhichModuleFirst]
 
 ### Niche, local, and re-engagement sources
 
@@ -135,7 +133,7 @@ This is the multi-source build, ordered so your spend only ever lands on qualifi
 
 - **Find and verify emails - last and fresh.** Run the waterfall (below) 2–3 days before launch, verify, then cut to 5 contacts per company with verified emails. Export.
 
-**[LOOM: LOOM-10-Clay-MultiSourceBuild]** Screen-share the whole build start to finish: pull accounts in AI Ark + Prospeo → AI qualify → enrich and score → find contacts → run the email waterfall → export the clean list. The primary consumption driver - the reader watches a real list get built.
+**[LOOM: LOOM-10-Clay-MultiSourceBuild]** The whole build start to finish: pull accounts in AI Ark and Prospeo, AI qualify, enrich and score, find contacts, run the email waterfall, then export the clean list.
 
 ## AI account enrichment and scoring
 
@@ -195,9 +193,9 @@ AI makes mistakes; your job is to catch them before they hit the campaign. The m
 
 Flag this row as CHECK if the value is blank, equals N/A, or contains any of: "sorry," "apologize," "cannot," "couldn't find," "no information," "not found," "unable to," "unknown," "as an AI," "not available." Otherwise mark OK.
 
-Then filter for CHECK to see your miss rate, and spot-check 10–20 random rows against the source. Grab our prebuilt QA column and waterfall templates here: {{LINK-Clay-TemplatePack}}
+Then filter for CHECK to see your miss rate, and spot-check 10–20 random rows against the source.
 
-**[LOOM: LOOM-10-Clay-EnrichQA]** Screen-share running the qualify column, the personalization prompt, and the QA column that catches apology outputs before they cost you.
+**[LOOM: LOOM-10-Clay-EnrichQA]** Running the qualify column, the personalization prompt, and the QA column that catches apology outputs before they cost you.
 
 ### Lowest-spend tactics
 
@@ -215,7 +213,7 @@ Email accuracy separates good lists from disasters. Invalid and catch-all addres
 
 - **Dedupe by LinkedIn URL first.** Same URL = same person. Dedupe before you spend a credit finding emails.
 
-- **The waterfall:** AI Ark (primary, bounce-banned) → Prospeo → Icypeas. Three to five steps covers ~99% of cases. Stop the moment you get a verified email.
+- **The waterfall:** AI Ark (primary, via {{AFF-BounceBan}}) → Prospeo → Icypeas. Three to five steps covers ~99% of cases. Stop the moment you get a verified email.
 
 - **Verify everything.** Run MillionVerifier first; if it returns anything other than "ok," run BounceBan on that address. Only send to emails one of the two marks deliverable.
 

@@ -4,8 +4,6 @@
 
 **Step 2 of 5:  ICP → Offer → Campaign → Copy → List**
 
-**[LOOM: LOOM-07-Offer-Intro]** Harvey on camera: "Your cold email isn't converting? It's almost never the copy - it's the offer." Frames the whole doc. Place under the title.
-
 ## What you get from this SOP
 
 **How to build an offer and lead magnet so good that cold prospects book the call - and then buy.**
@@ -87,8 +85,6 @@ Four dials. Two up, two down. Most weak offers aren't badly priced - they're jus
 - **Effort ****&**** Sacrifice (turn DOWN).** Every step you make them do lowers the value. This is why done-for-you beats done-with-you beats do-it-yourself - and why you can charge 3x for the same outcome by removing the labor.
 
 The fastest wins are almost always on dials 2, 3, and 4. Founders obsess over the outcome and forget that belief, speed, and ease are where the offer actually becomes irresistible.
-
-**[LOOM: LOOM-07-Offer-GrandSlamMagnet]** Two parts on screen: (1) take a real business and turn all four Value Equation dials live, building the stacked offer; (2) show AI generating a *custom* lead magnet - a bespoke audit/creative for one specific prospect - in minutes. This is the consumption driver and the proof that custom magnets are actually scalable.
 
 ## Reverse the risk - the highest-leverage dial
 

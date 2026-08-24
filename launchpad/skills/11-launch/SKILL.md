@@ -242,10 +242,8 @@ needs), 05-deliverability (warmup and infra, Pillar 1), 06-market-research
 (ICP, Pillar 2), 07-offer (Pillar 3), 08-campaign-architecture (the playbook
 lineup), 09-copy-frameworks (copy and the sentiment loop, Pillar 3),
 10-lead-list (the lists, Pillar 2), and feeds 13 Lead to Appointment (LTA and
-show rate). The diagnostic router uses Step 7 as its engine. Loom:
-{{LOOM-11-Launch-Intro}} (launch is not press send) and
-{{LOOM-11-Diagnose-Dashboard}} (diagnose a slipping campaign bottom-up). Full
-detail is in references/sop-full.md.
+show rate). The diagnostic router uses Step 7 as its engine. Full detail is in
+references/sop-full.md.
 
 Next step after launch: 12 Tools Stack Index. Broad build questions go back to
 the orchestrator skill. Broken-result questions go to the diagnostic

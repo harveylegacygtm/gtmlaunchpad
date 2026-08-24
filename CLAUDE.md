@@ -115,11 +115,12 @@ Two reference files are the single source of truth:
 - loom_links.md for all video links.
 
 Rules:
-- When you mention a tool, look up its token in affiliate_links.md.
-  If Status is Live, render the tool name as a hyperlink on its URL.
-  If Status is Deal Confirmed or Pending, write the tool name as plain text.
-- When a section has a Loom token, look it up in loom_links.md.
-  If Done, embed the link. If Not Done, leave the token as plain text.
+- When you mention a tool, look up its token in affiliate_links.md and render
+  the tool name as a hyperlink on its URL. Every link in that file is live, so
+  a tool with a token is always clickable.
+- When a section has a Loom token, look it up in loom_links.md and embed the
+  link. Every video in that file is live. If a topic has no token there, there
+  is no video for it, so point the reader at the SOP instead. Never invent one.
 - Never invent a link. Never paste a raw URL into a SOP or skill.
 - The house CTA uses CTA-BookCall. The main site uses DOMAIN-Main.
 

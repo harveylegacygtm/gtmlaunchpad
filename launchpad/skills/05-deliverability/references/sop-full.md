@@ -120,8 +120,6 @@ Don't brainstorm by hand. Give Claude your brand and rules and let it produce a 
 
 Spaceship often price-matches the same .com and .co domains, so it is a fine swap if you want to shop price or you just prefer it. Buy the same way, follow the same rules, and connect to InboxKit the same way.
 
-**[LOOM: LOOM-05-Dynadot-BuyDomains]** DIY walkthrough for power users. Managed users skip this - the provider buys for you.
-
 ## Cheap vs. premium domains - which to buy
 
 - **Cheap (.info): ~$3-4 each.** Cheaper to start - but they **burn out faster, 100%.**
@@ -276,7 +274,7 @@ Once you know your monthly send volume (from SOP 04), work from your daily targe
 
 The Launchpad calculator (SOP 04, Infra Calculator tab): {{LINK-MoneyModel-Sheet}} does this across your provider mix automatically. **Set your split here, then run it.**
 
-**[LOOM: LOOM-04-MoneyModel-InfraCalc]** Now that you've chosen your provider mix (Google / M365 / Azure), screen-share setting the split and reading monthly cost + ROI. This is the moment readers return to the calculator from SOP 04.
+**[LOOM: LOOM-04-MoneyModel-InfraCalc]** Now that you have picked your provider mix (Google, M365, or Azure), set the split in the calculator and read your monthly cost and ROI.
 
 ## Putting it together - setup via InboxKit
 
@@ -295,8 +293,6 @@ Your delivery guy. The sequencer does the actual mass sending - connect dozens t
 Other options: **Instantly** (easiest to start, good below ~5k/day), **EmailBison** (built for ~500k/month+). We still prefer Sendkit - delivers as well as Bison for 99% of cases at a price that works at any volume.
 
 # How To Export Mailboxes From Inboxkit To Sendkit And Other Sequencers
-
-**[LOOM: LOOM-05-InboxKit-ExportToSendkit]** Connect warmed mailboxes before launch.
 
 For running your sequencer day to day (building, launching, testing, optimizing), see **SOP 11** (Launch, Operate & Diagnose).
 

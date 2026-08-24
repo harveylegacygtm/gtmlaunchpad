@@ -488,6 +488,14 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-
       <h3 class="sub-h">Pick a registrar</h3>
       <p class="body-copy">Recommended: <a class="afflink" href="https://www.spaceship.com" target="_blank" rel="noopener noreferrer">Spaceship</a> or <a class="afflink" href="https://www.dynadot.com" target="_blank" rel="noopener noreferrer">Dynadot</a>. Two rules: don't register these at the same registrar as your main company domain, and buy in small batches &mdash; never put more than ~250 domains in one account, in case of a mass ban. Spaceship often price-matches the same .com and .co domains, so it's a fine swap if you want to shop price. Buy the same way, follow the same rules, and connect to InboxKit the same way.</p>
 
+      <h3 class="sub-h">Diversify how and when you buy</h3>
+      <p class="body-copy">Buying 50+ domains or mailboxes at once leaves a pattern spam filters now know to look for. Two moves fix it, and both are free.</p>
+      <ul class="plain">
+        <li><span class="dot"></span><span><strong>Split across hosts.</strong> Don't buy the whole batch from one registrar. Spread it across <a class="afflink" href="https://www.dynadot.com" target="_blank" rel="noopener noreferrer">Dynadot</a>, <a class="afflink" href="https://www.spaceship.com" target="_blank" rel="noopener noreferrer">Spaceship</a>, and your inbox provider's own domain option if it has one (<a class="afflink" href="https://inboxkit.com/r/gtmlaunchpad" target="_blank" rel="noopener noreferrer">InboxKit</a> and similar).</span></li>
+        <li><span class="dot"></span><span><strong>Split across time.</strong> Buying 100 mailboxes? Buy 50 now, then buy the other 50 two to three hours later, not all in one sitting. Same logic for domains: stagger a large batch across a few hours instead of one purchase.</span></li>
+      </ul>
+      <div class="note"><div class="lbl">Why this matters</div><p>Spam filters now flag the buying pattern itself, not just the sending pattern. A large batch of domains or mailboxes bought from one host at one moment reads as a signature, and can get the whole batch blacklisted before a single email goes out. Spreading the buy across hosts and across time avoids that signature entirely.</p></div>
+
       <h3 class="sub-h">Cheap vs. premium domains</h3>
       <div class="compare">
         <div class="col">
@@ -609,7 +617,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-
         <li><span class="dot"></span><span><strong>Microsoft 365:</strong> daily &divide; 10 = inboxes; inboxes &divide; 3 = domains.</span></li>
         <li><span class="dot"></span><span><strong>Azure:</strong> daily &divide; 2 = inboxes; inboxes &divide; 50 = domains (1 domain/tenant).</span></li>
       </ul>
-      <p class="body-copy">The <a href="https://docs.google.com/spreadsheets/d/1gwuSKqS1QftrCzvMZqPy-yVfdHorb3dLGv8AYSjhYQk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Launchpad calculator</a> (SOP 04, Infra Calculator tab) does this across your provider mix automatically. Set your split there, then run it.</p>
+      <p class="body-copy">The <a href="https://docs.google.com/spreadsheets/d/1gwuSKqS1QftrCzvMZqPy-yVfdHorb3dLGv8AYSjhYQk/copy" target="_blank" rel="noopener noreferrer">Launchpad calculator</a> (SOP 04, Infra Calculator tab) does this across your provider mix automatically. Set your split there, then run it.</p>
       <a class="loom" href="https://www.loom.com/share/0b0acdc7ba4e4598846ac47c0805feb1" target="_blank" rel="noopener noreferrer">
         <div class="play"><div class="tri"></div></div>
         <div class="txt">
@@ -717,6 +725,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-
       <div class="section-label">Common mistakes that wreck deliverability</div>
       <ul>
         <li><span class="x">&#10005;</span><span><strong>Sending from your main domain.</strong> Always use lookalikes.</span></li>
+        <li><span class="x">&#10005;</span><span><strong>Buying 50+ domains or mailboxes from one host in one sitting.</strong> Spam filters flag the buying pattern itself. Split across hosts and stagger the purchase by a few hours.</span></li>
         <li><span class="x">&#10005;</span><span><strong>Pushing volume too fast on new infrastructure.</strong> Skip or compress warm-up and you burn a month of capacity.</span></li>
         <li><span class="x">&#10005;</span><span><strong>Pointing fresh infra at Outlook/SEG targets.</strong> Respect the hierarchy &mdash; easy lanes first, aged M365 for the hard ones.</span></li>
         <li><span class="x">&#10005;</span><span><strong>Ignoring bounces.</strong> The best leading indicator of trouble.</span></li>
@@ -739,7 +748,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-
     </div>
     <p class="body-copy"><strong>Sequence matters:</strong> you don't write copy first. Stand up infrastructure first; build the rest while it warms.</p>
 
-    <a class="next" href="06-prospect-icp-mapping.html" target="_blank" rel="noopener noreferrer">
+    <a class="next" href="https://claude.ai/code/artifact/13372f08-3672-4b08-ac64-78a9783c857c" target="_blank" rel="noopener noreferrer">
       <div><div class="lbl">Next in the playbook</div><div class="title">06 &mdash; Prospect: ICP Mapping</div></div>
       <div class="arrow">&rarr;</div>
     </a>

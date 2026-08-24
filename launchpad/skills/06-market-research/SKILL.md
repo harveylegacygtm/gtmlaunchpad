@@ -161,8 +161,7 @@ no em-dashes, lead with the outcome. Cite every source. One persona per research
 run, do not blend two personas into one ICP. The ICP feeds the 07-offer skill
 (pains and ocean), the 08-campaign-architecture skill (signals and the two
 motions), the 09-copy-frameworks skill (pains, language, signal data), and the
-10-lead-list skill (the Signal-to-Offer Map, scoring, and the two lists). Live
-walkthrough on a real customer list: {{LOOM-06-Claude-ICPResearch}}. The
+10-lead-list skill (the Signal-to-Offer Map, scoring, and the two lists). The
 shareable version of this skill is the token {{LINK-Skill-MarketResearch}}. Full
 detail (the 4 layers, the trigger taxonomy, the hourglass) is in
 references/sop-full.md. The Customer List Import layer (enrich a CSV, mine shared

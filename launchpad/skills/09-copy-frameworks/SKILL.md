@@ -139,9 +139,8 @@ Follow CLAUDE.md. Reader is a sophisticated operator. Grade 6, short sentences,
 no em-dashes, lead with the outcome. Pull the campaign from the
 08-campaign-architecture skill, the ICP and language from the 06-market-research skill, and
 the offer from the 07-offer skill. The Dream Email defines the data the
-10-lead-list skill must enrich. Live build of a Dream Email and AI
-personalization at scale: {{LOOM-09-Copy-DreamEmailAI}}. Full detail (the copy
-principles, flavors of social proof, the cut list) is in references/sop-full.md.
+10-lead-list skill must enrich. Full detail (the copy principles, flavors of
+social proof, the cut list) is in references/sop-full.md.
 Ready-to-fill email templates, the personalization opener bank, and the subject
 and CTA swipes are in references/swipe-file.md. Pull from it when drafting; do
 not read it to the user.

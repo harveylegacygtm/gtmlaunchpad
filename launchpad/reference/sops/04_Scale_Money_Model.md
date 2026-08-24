@@ -2,7 +2,7 @@
 
 **The Launchpad Playbook** • **Module:** S in SCOPE - Scale • **Companion artifact:** The Launchpad Money Model (V4 - three-tab calculator) • **Reading time:** ~12 min • **Action time:** 30–60 min to model your numbers
 
-**[LOOM: LOOM-04-MoneyModel-Intro]** Harvey on camera: "The one sentence every founder should be able to say - and almost none can." Frames the outcome. Place under the title.
+**[LOOM: LOOM-04-MoneyModel-Intro]** The one sentence every founder should be able to say about their own numbers, and why almost nobody can.
 
 ## What you'll get from this SOP
 
@@ -151,7 +151,7 @@ You can't model revenue without a sense of infrastructure cost. Here's a *ballpa
 
 ## The Launchpad Money Model (the calculator)
 
-The math above is what's running in the calculator. It does it for you across multiple ICPs side by side. **[**[**Make a copy → HERE**](https://docs.google.com/spreadsheets/d/1gwuSKqS1QftrCzvMZqPy-yVfdHorb3dLGv8AYSjhYQk/edit?usp=sharing)**]**
+The math above is what's running in the calculator. It does it for you across multiple ICPs side by side. **[**[**Make a copy → HERE**](https://docs.google.com/spreadsheets/d/1gwuSKqS1QftrCzvMZqPy-yVfdHorb3dLGv8AYSjhYQk/copy)**]**
 
 Three tabs:
 
@@ -161,9 +161,9 @@ Three tabs:
 
 - **Tab 3 - Infra Calculator (Personal Email).** Same engine, built for sending to personal inboxes (@gmail, @outlook), which burns infrastructure ~2–3× faster - it applies a cycling multiplier and charges domains at full registration since they're discarded each cycle.
 
-**[LOOM: LOOM-04-MoneyModel-Walkthrough]** Screen-share Tab 1: fill one ICP column end-to-end and read the funnel output (revenue → monthly email volume). This is where readers go from reading to *doing*.
+**[LOOM: LOOM-04-MoneyModel-Walkthrough]** Fill one ICP column end to end on Tab 1, then read the funnel output, from revenue through to monthly email volume.
 
-**[LOOM: LOOM-04-MoneyModel-InfraCalc] - used AFTER SOP 05** Screen-share Tabs 2–3: set the provider split, read monthly cost + ROI, compare cheap vs premium domains. Point readers here once they've chosen their provider mix in SOP 05.
+**[LOOM: LOOM-04-MoneyModel-InfraCalc]** On Tabs 2 and 3, set your provider split, read your monthly cost and ROI, and compare cheap against premium domains. Come back to this once you have picked your provider mix in SOP 05.
 
 **Editing rules:** workshop benchmarks are pre-loaded as defaults. Edit any **blue** cell to override. **Yellow** cells are diagnostic-only (reply rate, positive reply rate) - they don't drive the math. **Black** cells are formulas - don't touch them or the math breaks. The Sheet runs a consistency check: reply rate × positive reply rate should ≈ 1 ÷ leads-per-positive; if they're way off, it flags it.
 

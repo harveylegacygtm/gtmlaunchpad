@@ -129,10 +129,8 @@ cannot say the magnet in one sentence, it is not real yet.
 Follow CLAUDE.md. Reader is a sophisticated operator. Grade 6, short sentences,
 no em-dashes, lead with the outcome. Pull pains and customer language from the
 06-market-research skill. The offer and magnet feed the 08-campaign-architecture skill and
-the 09-copy-frameworks skill. Intro video: {{LOOM-07-Offer-Intro}}. Live build
-of a stacked offer and a custom magnet: {{LOOM-07-Offer-GrandSlamMagnet}}. Full
-detail (the four magnet jobs, guarantee flavors, worked red and blue ocean
-examples) is in references/sop-full.md.
+the 09-copy-frameworks skill. Full detail (the four magnet jobs, guarantee
+flavors, worked red and blue ocean examples) is in references/sop-full.md.
 
 Next step after this: the 08-campaign-architecture skill. Broad build questions
 go back to the orchestrator skill. Broken-result questions go to the

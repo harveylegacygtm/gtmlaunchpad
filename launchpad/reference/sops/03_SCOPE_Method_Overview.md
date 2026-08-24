@@ -2,8 +2,6 @@
 
 **The Launchpad Playbook** • Module: Foundations / Navigation • Reading time: 3 min
 
-**[LOOM: LOOM-03-SCOPE-Trailer]** Topic: Harvey walks the SCOPE pyramid on camera - the five levers, why the order matters, and how to use this book. This becomes the playbook's entry video. Place directly under the title.
-
 ## What you'll get from this page
 
 SCOPE is five levers that build a predictable cold outbound system:

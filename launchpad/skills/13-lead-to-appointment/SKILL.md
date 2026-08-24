@@ -58,8 +58,7 @@ continuously through working hours, not once a day.
 Set it up on {{AFF-Sendkit}}: every reply routes into the unified master inbox so
 the team works one queue instead of 30 mailboxes, reply notifications on so each
 new reply pings instantly, and saved snippets for the common moves (book,
-reframe, reschedule) so a response is seconds away. Walk the exact setup with
-{{LOOM-13-Sendkit-Notifications}}.
+reframe, reschedule) so a response is seconds away.
 
 ## Step 3: Build the seven reply-type moves
 
@@ -145,8 +144,6 @@ cooled. Keep adding wood to the fire. Build all five on every booking:
 5. A pre-call email flow, 2 to 3 touches: set the frame and what to expect, drop
    one piece of social proof, pre-handle the top objection. Every touch restates
    the date and time. Deliver the promised lead magnet live on the call.
-
-Build all five on screen with {{LOOM-13-ShowUpEngine}}.
 
 ## Step 8: Build no-show recovery and cap the window
 

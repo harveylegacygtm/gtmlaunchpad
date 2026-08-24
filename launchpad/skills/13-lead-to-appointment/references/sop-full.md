@@ -76,8 +76,6 @@ Keep it boring and built once. The stack:
 
 Every reply routes into Sendkit's unified master inbox, so the whole team works one queue instead of scattered mailboxes. Turn on reply notifications so a new reply pings you immediately. Keep saved snippets for your most common moves (book, reframe, reschedule) so a response is seconds away. And work the inbox continuously through the day rather than batching it. The goal is simple: collapse the time between "reply lands" and "you respond" to minutes.
 
-**[LOOM: LOOM-13-Sendkit-Notifications]** Walk the exact setup: route every reply into the unified master inbox, turn on reply notifications so each new reply pings you instantly, and build the saved-snippet moves. The whole point is to get response time down to minutes.
-
 ## 3 — Types of replies and how to handle them
 
 Every cold reply sorts into one of seven buckets. Recognize the type, run the move, and keep the angle, offer, and tone consistent with the email that earned it.
@@ -153,8 +151,6 @@ The booking is not the win. Between "yes" and the call, your prospect has a hund
 - **An SMS reminder.** The day before and/or the morning of. Texts get read when emails don't. Keep it short and pattern-interrupting, with the time and a one-click reschedule link, not a robotic "reminder: your appointment is at 2pm."
 
 - **A pre-call email flow that adds value and context.** Two or three touches across the gap, each doing one job: set the frame and "what to expect," drop one piece of social proof or a case study, and pre-handle the top objection (price, vendor, timing) so it's not a landmine live. Every touch restates the date and time. By call day they know you, trust you, remember why they booked, and their main objection is already softened, so the call is a warm continuation, not a cold restart, and the lead magnet you promised gets delivered live.
-
-**[LOOM: LOOM-13-ShowUpEngine]** Build all five pieces on screen: the two-surface confirmation, the thank-you page (founder video + proof), the manual LinkedIn/SMS/call touch, the SMS reminder, and the 2–3 email pre-call flow. Then set the scheduler's near-term-only booking window (section 7).
 
 ### Recover the no-shows
 

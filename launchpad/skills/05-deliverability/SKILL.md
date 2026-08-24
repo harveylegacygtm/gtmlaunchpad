@@ -115,8 +115,7 @@ This is the artifact. Walk it in order:
    numbers, short, readable. Output as a CSV, one per line."
 3. Buy at {{AFF-Dynadot}} (default). Price-match alternative {{AFF-Spaceship}},
    or {{AFF-Porkbun}}. Two rules: don't use the same registrar as their main
-   domain, and keep under ~250 domains per account. DIY walkthrough:
-   {{LOOM-05-Dynadot-BuyDomains}}.
+   domain, and keep under ~250 domains per account.
 4. Outsource setup to {{AFF-InboxKit}}. They configure SPF, DKIM, and DMARC on
    every domain, provision the inboxes, and run warmup. The Launchpad deal:
    inboxes from as little as $3/month, no commitment. Setup tutorial:
@@ -125,8 +124,7 @@ This is the artifact. Walk it in order:
    transfer to a new mailbox, so warm even on aged domains. Then ramp cold
    volume up gradually, not all at once.
 6. Connect the warmed inboxes to the sequencer, {{AFF-Sendkit}} (InboxKit
-   exports straight into it). Export walkthrough:
-   {{LOOM-05-InboxKit-ExportToSendkit}}.
+   exports straight into it).
 7. Launch in weekly batches, non-Outlook ESP leads only for the first 90 days.
 
 Compile all of it into their plan: provider split, domain count, inbox count

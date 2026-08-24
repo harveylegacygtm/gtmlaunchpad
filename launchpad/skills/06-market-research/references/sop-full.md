@@ -188,8 +188,6 @@ Stop guessing. Use real data.
 
 Upload your customer list to Claude and it will surface the patterns in minutes. We use a Claude skill to run this market research on every client onboarding - steal it here: {{LINK-Skill-MarketResearch}}
 
-**[LOOM: LOOM-06-Claude-ICPResearch]** Screen-share running the Claude market-research skill on a real customer list: upload the customers → surface the shared patterns → output the one-paragraph ICP and the anti-ICP live. This is the doc's primary consumption driver - the moment the reader sees the AI workflow actually build their ICP, not just hears about it.
-
 ## Score your TAM - and decide what each tier gets
 
 A list without a score treats every lead as equal. They aren't. Score every company 0–100 against your rubric:

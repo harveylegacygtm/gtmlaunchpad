@@ -93,14 +93,13 @@ Catch AI mistakes with a QA column that flags apologies. Give them this:
 flag a row as CHECK if the value is blank, equals N/A, or contains any of
 "sorry," "apologize," "cannot," "couldn't find," "no information," "not found,"
 "unable to," "as an AI," "not available." Otherwise OK. Then filter for CHECK.
-Prebuilt QA and waterfall templates: {{LINK-Clay-TemplatePack}}.
 
 ## Step 6: Find emails last, with the waterfall
 
 Email data goes stale fast, so this runs 2 to 3 days before launch, not weeks
 ahead. Dedupe by LinkedIn URL first (same URL, same person, pay once). Then run
 the waterfall, cheapest first, stop at the first verified hit: AI Ark
-(bounce-banned) → Prospeo → {{AFF-Icypeas}}. Verify every address with
+(via {{AFF-BounceBan}}) → Prospeo → {{AFF-Icypeas}}. Verify every address with
 {{AFF-MillionVerifier}}; if it returns anything but "ok," run {{AFF-BounceBan}}.
 Send only to addresses one of the two marks deliverable. Drop catch-all-only
 addresses.
@@ -135,9 +134,8 @@ no em-dashes, lead with the outcome. Pull the ICP and Signal-to-Offer Map from
 the 06-market-research skill, the campaign and its signals from the 08-campaign-architecture
 skill, the data to enrich from the Dream Email in the 09-copy-frameworks skill,
 and the lead count from the 04-scale skill. The click-by-click Clay, AI Ark, and
-Prospeo how-to lives in the lead-database tool skill. Intro:
-{{LOOM-10-LeadList-Intro}}. Which Clay module to learn first:
-{{LOOM-10-Clay-WhichModuleFirst}}. Full multi-source build:
+Prospeo how-to lives in the lead-database tool skill. Which Clay module to learn
+first: {{LOOM-10-Clay-WhichModuleFirst}}. Full multi-source build:
 {{LOOM-10-Clay-MultiSourceBuild}}. Qualify, personalize, and QA columns:
 {{LOOM-10-Clay-EnrichQA}}. Full detail is in references/sop-full.md.
 

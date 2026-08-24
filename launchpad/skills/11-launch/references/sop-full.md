@@ -4,8 +4,6 @@
 
 **After the build (06–10):  Launch → Operate → Diagnose**
 
-**[LOOM: LOOM-11-Launch-Intro]** Harvey on camera: "Launch isn't press send. Here's the 3-week sequence." Place under the title.
-
 ## What you get from this SOP
 
 **How to take everything you built live without torching your domains, then keep it running and fix it fast when the numbers dip.**
@@ -291,8 +289,6 @@ Once you know the pillar, the next step writes itself:
 - **Scale.** If the layers are healthy, don't tinker. Send more at the same ratio once the math (04) confirms the unit economics work.
 
 Fix the pillar that's actually broken, not the one that's easiest to tinker with.
-
-**[LOOM: LOOM-11-Diagnose-Dashboard]** Screen-share the leading/lagging dashboard, then take a real campaign that's slipping and walk it bottom-up through the four pillars to the actual fix. The diagnostic in action.
 
 ## Common launch and diagnostic mistakes
 

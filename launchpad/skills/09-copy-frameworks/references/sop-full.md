@@ -284,8 +284,6 @@ Personalization lives in the opener - it answers "why are you reaching out to me
 
 If your offer is strong enough, personalization can be little to none. But most companies we work with are in a red ocean. Personalization is what makes someone give you a shot to explain why you're different.
 
-**[LOOM: LOOM-09-Copy-DreamEmailAI]** Write a Dream Email live, dial it down to a plain evergreen version, then show AI writing the personalization line at scale across a list. The reader watches the workflow that turns a list into custom openers.
-
 ## The claims and statistics rule
 
 Never invent or fake numbers, client names, results, or case studies. This protects your credibility and keeps you out of trouble.

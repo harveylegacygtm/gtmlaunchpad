@@ -82,9 +82,6 @@ domains," "write my cold email," or "analyze my campaign."
 
 ---
 
-
----
-
 ## License
 
 Proprietary. All rights reserved. See [LICENSE](LICENSE).

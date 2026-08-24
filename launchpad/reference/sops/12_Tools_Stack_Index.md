@@ -62,8 +62,6 @@ Don't buy everything at once. Buy in this order:
 
 **Use this when:** Any of the three works. We rotate across all three because of quarterly availability and pricing swings on .info, .co, and .com variants.
 
-**[LOOM: LOOM-05-Dynadot-BuyDomains]** The domain-buying walkthrough.
-
 **Skip if:** You're using a managed inbox provider (like InboxKit) where you can buy domains straight from them.
 
 ### Inbox infrastructure (InboxKit)
@@ -76,7 +74,7 @@ Don't buy everything at once. Buy in this order:
 | --- | --- | --- | --- |
 | InboxKit | Default for everyone. Managed Google + Microsoft 365 + Azure inboxes, automatic warmup, domain rotation | ~50% off retail (passes through reseller savings) | {{AFF-InboxKit}} — code **GTMLAUNCHPAD** for $3/mailbox instead of $3.50 |
 
-**[LOOM: LOOM-05-InboxKit-Setup]** Full ordering walkthrough (also referenced in SOP 05).
+**[LOOM: LOOM-05-InboxKit-Setup]** Full ordering walkthrough.
 
 ### Sequencer (Sendkit)
 
@@ -109,8 +107,6 @@ Don't buy everything at once. Buy in this order:
 
 - **Claude Code DIY** if you have the technical chops and want maximum flexibility: your own enrichment pipelines, scoring logic, and scrapers. Highest ceiling, most setup work.
 
-**[LOOM: LOOM-12-Clay-HowToUse]** The orchestration walkthrough.
-
 ### Lead source primary (AI Ark)
 
 **What it does:** Source of company data, people data, and verified emails. Replaces what most people use Apollo for. Has API access, so it works as both a discovery tool and an email-finder API in your waterfall.
@@ -123,13 +119,11 @@ Don't buy everything at once. Buy in this order:
 
 **How it fits in:** AI Ark is your first-pass tool. You pull company and people data with verified emails. For people AI Ark doesn't have or can't verify, you cascade through the waterfall (below). Most people get 60–70% of their list from AI Ark alone.
 
-**[LOOM: LOOM-12-AIArk-HowToUse]**
+**[LOOM: LOOM-12-AIArk-HowToUse]** Full AI Ark training, with co-founder Elias Hamied.
 
 ### Lead source alternative (local businesses)
 
 If your market is local or brick-and-mortar, Google Maps sources are your best friend. Build your own scraper with Serper.dev (a Google Maps scraper), or browse a local-business database like localpipe.io. Both have trade-offs.
-
-**[LOOM: LOOM-12-LocalMaps-LeadSources]**
 
 ### Lead list enrichment / scoring (OpenAI API key via Clay)
 
@@ -140,8 +134,6 @@ You'll create your own OpenAI API key at platform.openai.com. This key plugs int
 - **Website scraping / internet research:** if it's on the internet and scrapable, Claygent can get it. Great for automated account research at scale, to generate data for qualification and personalization.
 
 - **Content creation / modification:** based on the data you have, it can score and qualify the account, or write the personalization for each account and lead.
-
-**[LOOM: LOOM-12-Clay-OpenAIEnrichment]** When to use which function.
 
 ### Email finder waterfall
 
@@ -162,8 +154,6 @@ You'll create your own OpenAI API key at platform.openai.com. This key plugs int
 | --- | --- | --- | --- |
 | MillionVerifier | First layer of email verification | Credit-based | {{AFF-MillionVerifier}} |
 | BounceBan | Catch-all email verification | Credit-based | {{AFF-BounceBan}} |
-
-**[LOOM: LOOM-12-Waterfall-FinderValidator]**
 
 ### Call booking software (Calendly, or your CRM)
 
@@ -206,8 +196,6 @@ See SOP 13 — Lead-to-Appointment for the playbook on handling replies and usin
 - **GHL** if you mostly run outbound and want a clean CRM that doesn't fight you.
 
 - **HubSpot** if you run multi-channel (outbound + ads + content) and need one platform.
-
-**[LOOM: LOOM-12-GHL-HowToUse]** GHL training walkthrough. 
 
 ### Call recording / sales enablement (Fathom)
 
