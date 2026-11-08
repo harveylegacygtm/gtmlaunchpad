@@ -18,7 +18,7 @@ How it works:
 | Token | What it is | URL |
 |---|---|---|
 | DOMAIN-Main | The Launchpad main site | https://gtmlaunchpad.co |
-| CTA-BookCall | Book-a-call link (the house CTA in every SOP) | https://calendly.com/d/ds6g-y9t-phf/launchpad-strategy-session |
+| CTA-BookCall | Book-a-call link (the house CTA in every SOP) | https://calendly.com/aj--158/intro-call |
 | LINK-Skill-MarketResearch | Shareable market-research Claude skill (SOP 06) | https://uttermost-dianella-d0c.notion.site/100M-ICP-Research-3aa6584dbbc48129b71bf2ccb4d7507c?pvs=74 |
 | LINK-MoneyModel-Sheet | The Launchpad Money Model calculator, V4 three-tab (SOP 04) | https://docs.google.com/spreadsheets/d/1gwuSKqS1QftrCzvMZqPy-yVfdHorb3dLGv8AYSjhYQk/copy |
 
